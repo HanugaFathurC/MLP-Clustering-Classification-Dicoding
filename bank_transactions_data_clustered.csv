@@ -1,0 +1,2513 @@
+AccountBalance,CustomerAge,Channel,TransactionType,Location,Cluster
+5112.21,70.0,ATM,Debit,San Diego,0
+13758.91,68.0,ATM,Debit,Houston,1
+1122.35,19.0,Online,Debit,Mesa,1
+8569.06,26.0,Online,Debit,Raleigh,0
+7429.4,26.0,Online,Credit,Atlanta,2
+781.6800000000003,18.0,ATM,Debit,Oklahoma City,0
+13316.71,37.0,ATM,Credit,Seattle,0
+2796.24,67.0,Branch,Credit,Indianapolis,1
+9095.14,51.0,Branch,Credit,Detroit,2
+1021.8799999999997,55.0,ATM,Debit,Nashville,1
+7599.52,52.0,Online,Credit,Albuquerque,2
+1528.81,21.0,Online,Debit,Memphis,1
+1620.02,24.0,Branch,Credit,Mesa,1
+189.6899999999996,26.0,ATM,Debit,Memphis,1
+299.9300000000003,18.0,Online,Debit,Louisville,1
+3465.54,36.0,ATM,Debit,Denver,2
+1131.2600000000002,19.0,Branch,Credit,Austin,2
+5109.97,39.0,Online,Debit,Columbus,2
+7948.37,59.0,Branch,Credit,Albuquerque,2
+6568.59,18.0,Online,Credit,Columbus,2
+5750.89,71.0,Branch,Debit,Los Angeles,1
+9146.19,38.0,Branch,Debit,Las Vegas,1
+8974.93,39.0,Online,Debit,Atlanta,2
+1402.5,22.0,Online,Debit,Fort Worth,1
+1930.96,21.0,Online,Debit,Raleigh,0
+3634.67,65.0,Online,Credit,Houston,1
+673.3500000000004,23.0,ATM,Debit,Miami,1
+2686.52,37.0,Branch,Debit,Milwaukee,1
+1772.06,44.0,Online,Debit,Las Vegas,1
+1351.69,27.0,Branch,Debit,Detroit,2
+8334.47,59.0,Online,Credit,Miami,1
+9823.64,29.0,ATM,Debit,Baltimore,2
+9690.15,49.0,ATM,Debit,New York,0
+399.0,22.0,Online,Debit,Los Angeles,1
+14815.87,45.0,Branch,Credit,San Francisco,0
+5764.72,49.0,Branch,Debit,Seattle,0
+900.6099999999997,26.0,Branch,Debit,Milwaukee,1
+4875.86,75.0,ATM,Debit,San Jose,0
+7914.88,66.0,ATM,Debit,Mesa,1
+1019.3899999999999,55.0,Online,Debit,Oklahoma City,0
+4323.66,63.0,ATM,Debit,San Antonio,0
+14214.48,38.0,Online,Debit,Philadelphia,0
+13357.02,57.0,Online,Credit,Charlotte,2
+241.78999999999996,19.0,ATM,Debit,Tucson,0
+868.6099999999997,27.0,Branch,Debit,Louisville,1
+4673.28,74.0,Branch,Debit,Chicago,2
+1509.27,26.0,Branch,Debit,Baltimore,2
+781.6999999999998,19.0,Online,Debit,Oklahoma City,0
+265.5100000000002,26.0,Online,Debit,Denver,2
+1335.0900000000001,41.0,Online,Credit,Sacramento,0
+3907.54,69.0,Online,Credit,Kansas City,1
+5183.85,51.0,Online,Debit,Omaha,0
+14904.9,67.0,Branch,Debit,Virginia Beach,0
+918.8800000000001,28.0,Branch,Debit,San Diego,0
+4477.78,62.0,ATM,Debit,Omaha,0
+1324.0299999999997,25.0,Branch,Debit,Mesa,1
+3534.93,57.0,Branch,Credit,Columbus,2
+4638.37,68.0,Branch,Credit,Dallas,2
+5630.61,48.0,Branch,Debit,Indianapolis,1
+930.3000000000002,23.0,Branch,Debit,Kansas City,1
+5499.91,46.0,ATM,Debit,Indianapolis,1
+4175.02,79.0,Branch,Debit,Dallas,2
+6651.62,48.0,Online,Debit,Las Vegas,1
+8458.29,56.0,Branch,Credit,Philadelphia,0
+13988.12,50.0,Online,Debit,Charlotte,2
+2585.07,42.0,Branch,Credit,Nashville,1
+3014.75,56.0,Branch,Debit,Indianapolis,1
+1951.42,25.0,Branch,Debit,Albuquerque,2
+3665.77,60.0,Online,Credit,Austin,2
+977.0100000000002,32.0,Branch,Credit,Indianapolis,1
+3846.28,44.0,ATM,Debit,Atlanta,2
+6374.82,35.0,Online,Debit,Dallas,2
+5866.01,62.0,ATM,Debit,Boston,2
+6537.62,26.0,Online,Credit,Jacksonville,1
+605.9499999999998,20.0,Branch,Debit,Indianapolis,1
+6689.87,37.0,ATM,Debit,Omaha,0
+634.1700000000001,22.0,Online,Debit,Kansas City,1
+14676.05,44.0,Branch,Debit,Milwaukee,1
+1362.3900000000003,19.0,Branch,Debit,Miami,1
+10528.34,50.0,Online,Debit,Seattle,0
+552.5200000000004,38.0,ATM,Debit,Denver,2
+6451.96,58.0,Online,Credit,Phoenix,0
+4715.84,63.0,ATM,Debit,Detroit,2
+7176.86,49.0,Online,Debit,Denver,2
+1523.7200000000003,34.0,Online,Debit,San Diego,0
+8654.28,54.0,Online,Credit,Austin,2
+9869.93,64.0,Branch,Debit,Mesa,1
+10556.81,48.0,ATM,Debit,Washington,0
+12883.91,58.0,Online,Credit,San Diego,0
+791.6499999999996,24.0,Online,Debit,Kansas City,1
+4064.02,60.0,Online,Credit,Milwaukee,1
+2929.91,53.0,ATM,Debit,Kansas City,1
+618.0500000000002,21.0,Branch,Debit,Houston,1
+1375.8000000000002,19.0,Online,Debit,Los Angeles,1
+1143.52,29.0,ATM,Debit,San Antonio,0
+7708.41,51.0,Branch,Credit,Mesa,1
+1872.96,27.0,Branch,Credit,San Francisco,0
+201.03999999999996,57.0,ATM,Debit,Louisville,1
+2115.8,71.0,Branch,Debit,Charlotte,2
+7643.66,37.0,Branch,Debit,San Antonio,0
+8901.93,30.0,Branch,Debit,Fort Worth,1
+9383.43,20.0,Online,Credit,El Paso,2
+1181.31,55.0,Branch,Credit,Fort Worth,1
+9418.86,27.0,Branch,Debit,Virginia Beach,0
+7954.92,32.0,ATM,Debit,Las Vegas,1
+9418.08,46.0,Online,Debit,Colorado Springs,2
+6144.68,59.0,Online,Debit,Seattle,0
+420.64999999999964,27.0,Branch,Debit,Sacramento,0
+447.8199999999997,22.0,Online,Debit,Los Angeles,1
+7981.45,63.0,ATM,Debit,San Antonio,0
+1829.9,53.0,ATM,Debit,Columbus,2
+985.0599999999995,25.0,ATM,Debit,New York,0
+8849.26,51.0,Online,Credit,Dallas,2
+3528.72,78.0,ATM,Credit,Dallas,2
+480.15999999999985,40.0,Online,Debit,Fresno,1
+12145.27,47.0,Online,Debit,San Diego,0
+13546.75,68.0,Online,Credit,Austin,2
+5688.37,43.0,ATM,Credit,Oklahoma City,0
+8346.64,26.0,Online,Debit,Boston,2
+6481.04,39.0,Branch,Debit,Fresno,1
+1651.33,69.0,ATM,Debit,Houston,1
+11174.94,46.0,Online,Credit,Detroit,2
+145.5,27.0,Online,Debit,Detroit,2
+4172.57,41.0,Online,Debit,Portland,0
+5558.36,56.0,ATM,Debit,Washington,0
+11151.53,70.0,Online,Credit,Detroit,2
+1415.52,57.0,Branch,Debit,Philadelphia,0
+1103.6400000000008,26.0,Online,Debit,Tucson,0
+303.6800000000003,26.0,Online,Debit,Mesa,1
+5541.57,58.0,Branch,Debit,San Antonio,0
+6309.8,33.0,Branch,Debit,Oklahoma City,0
+5133.61,78.0,Branch,Credit,San Antonio,0
+9344.98,47.0,Online,Debit,Louisville,1
+1117.9700000000003,23.0,Branch,Credit,Los Angeles,1
+11835.35,56.0,ATM,Debit,Albuquerque,2
+14401.17,50.0,ATM,Debit,Milwaukee,1
+1748.69,18.0,Online,Debit,Oklahoma City,0
+1000.46,21.0,Branch,Debit,San Antonio,0
+6810.05,69.0,Online,Debit,Seattle,0
+263.97999999999956,23.0,Online,Debit,Chicago,2
+5442.76,30.0,Online,Debit,Chicago,2
+2037.85,80.0,ATM,Debit,Detroit,2
+341.9399999999996,18.0,ATM,Debit,Charlotte,2
+1066.5900000000001,66.0,Online,Credit,Oklahoma City,0
+6077.96,69.0,Branch,Credit,Jacksonville,1
+1659.15,20.0,ATM,Debit,Los Angeles,1
+2042.2200000000003,77.0,Branch,Debit,Sacramento,0
+421.9300000000003,41.0,Online,Debit,New York,0
+10113.66,66.0,ATM,Debit,Memphis,1
+4446.17,54.0,Online,Debit,Philadelphia,0
+6452.77,80.0,Online,Debit,Virginia Beach,0
+2788.2,35.0,Branch,Credit,Albuquerque,2
+596.1599999999999,20.0,Online,Debit,San Antonio,0
+12904.66,61.0,Branch,Debit,San Francisco,0
+9062.4,37.0,ATM,Debit,Tucson,0
+9009.56,36.0,Online,Credit,Seattle,0
+1152.1999999999998,20.0,Online,Credit,New York,0
+12168.37,68.0,Branch,Credit,Memphis,1
+611.8599999999997,23.0,Branch,Debit,Charlotte,2
+8670.53,62.0,Online,Debit,Washington,0
+10098.86,53.0,Online,Credit,Louisville,1
+5307.74,33.0,Branch,Debit,Detroit,2
+1047.2799999999993,56.0,Branch,Credit,Tucson,0
+6921.48,70.0,Branch,Debit,Nashville,1
+1475.46,51.0,Branch,Debit,Kansas City,1
+112.76000000000022,34.0,ATM,Debit,Memphis,1
+5669.66,75.0,Branch,Debit,Baltimore,2
+1309.9499999999998,53.0,Online,Credit,Chicago,2
+4057.1,31.0,Branch,Debit,Houston,1
+1585.98,22.0,ATM,Debit,Detroit,2
+6825.55,31.0,Branch,Debit,Houston,1
+5516.5,56.0,Branch,Debit,Los Angeles,1
+5343.3,76.0,Online,Debit,Chicago,2
+903.0500000000002,22.0,Branch,Debit,Denver,2
+1806.1599999999999,24.0,Online,Debit,Chicago,2
+787.7399999999998,26.0,Branch,Debit,Portland,0
+2429.68,29.0,ATM,Debit,El Paso,2
+770.3699999999999,19.0,ATM,Debit,Baltimore,2
+1182.7700000000004,71.0,Online,Debit,Phoenix,0
+726.5500000000002,54.0,Online,Credit,Philadelphia,0
+14464.3,41.0,Online,Debit,Philadelphia,0
+12046.3,58.0,ATM,Debit,Albuquerque,2
+7885.64,73.0,Branch,Debit,Jacksonville,1
+1952.35,19.0,Branch,Credit,Virginia Beach,0
+7328.52,59.0,ATM,Debit,Las Vegas,1
+3210.39,59.0,ATM,Debit,Portland,0
+5726.2,78.0,Online,Debit,Jacksonville,1
+1363.65,62.0,ATM,Debit,Mesa,1
+1241.9899999999998,60.0,ATM,Credit,Philadelphia,0
+7873.28,38.0,ATM,Debit,Los Angeles,1
+5674.32,79.0,Branch,Debit,Washington,0
+9840.04,49.0,Branch,Credit,Louisville,1
+10328.23,43.0,Branch,Credit,Las Vegas,1
+293.2399999999998,25.0,Online,Credit,Virginia Beach,0
+7486.63,52.0,Branch,Debit,Jacksonville,1
+11385.37,50.0,Branch,Credit,Los Angeles,1
+7264.79,69.0,Branch,Debit,Colorado Springs,2
+2762.48,62.0,Branch,Debit,Tucson,0
+6675.03,62.0,Online,Debit,Detroit,2
+7432.99,53.0,Branch,Debit,Colorado Springs,2
+1057.0000000000005,19.0,ATM,Debit,Los Angeles,1
+5956.89,43.0,Online,Debit,Atlanta,2
+7261.59,59.0,Branch,Debit,Tucson,0
+4943.16,64.0,Branch,Debit,Seattle,0
+8127.48,60.0,Branch,Debit,Memphis,1
+1748.02,68.0,ATM,Debit,Denver,2
+9660.22,31.0,ATM,Debit,Oklahoma City,0
+6371.51,46.0,ATM,Debit,Houston,1
+9442.47,54.0,ATM,Debit,Kansas City,1
+5959.2,63.0,ATM,Credit,Raleigh,0
+13531.22,65.0,ATM,Debit,Portland,0
+11500.62,40.0,ATM,Debit,El Paso,2
+1389.37,61.0,ATM,Debit,Milwaukee,1
+6706.56,55.0,ATM,Debit,Louisville,1
+7175.29,57.0,Online,Credit,Detroit,2
+420.6700000000001,25.0,ATM,Debit,Atlanta,2
+7323.53,75.0,Branch,Debit,Philadelphia,0
+8395.85,50.0,ATM,Debit,Fort Worth,1
+5140.93,33.0,Online,Credit,Las Vegas,1
+7945.57,63.0,ATM,Debit,Omaha,0
+5873.54,44.0,Branch,Debit,Charlotte,2
+3074.45,76.0,Online,Credit,Milwaukee,1
+6155.76,64.0,ATM,Debit,Columbus,2
+8318.29,28.0,Online,Debit,Virginia Beach,0
+230.09000000000015,58.0,ATM,Debit,Chicago,2
+2513.56,57.0,Branch,Debit,Indianapolis,1
+10090.05,41.0,Branch,Debit,San Diego,0
+480.1899999999996,22.0,ATM,Debit,Boston,2
+1120.88,48.0,ATM,Debit,Mesa,1
+370.8100000000004,21.0,ATM,Debit,Boston,2
+13498.55,43.0,ATM,Debit,Oklahoma City,0
+14804.7,40.0,Branch,Debit,Phoenix,0
+3057.4,46.0,Branch,Credit,Denver,2
+14942.78,51.0,ATM,Debit,Fort Worth,1
+14143.32,39.0,ATM,Debit,San Jose,0
+6736.3,56.0,ATM,Credit,Milwaukee,1
+3313.07,48.0,Branch,Debit,Memphis,1
+829.71,54.0,Branch,Debit,Virginia Beach,0
+1540.87,53.0,Online,Credit,Fort Worth,1
+6820.23,32.0,Online,Credit,Louisville,1
+13475.14,35.0,Online,Debit,Las Vegas,1
+714.4499999999998,32.0,Branch,Debit,Portland,0
+1306.9099999999999,21.0,ATM,Debit,Nashville,1
+7255.33,56.0,Online,Credit,Memphis,1
+1153.8400000000006,59.0,Branch,Debit,Louisville,1
+6647.73,77.0,Branch,Credit,Atlanta,2
+8709.77,22.0,Branch,Debit,Philadelphia,0
+857.8999999999996,23.0,Online,Debit,Fresno,1
+509.4499999999998,53.0,Online,Credit,Virginia Beach,0
+2812.06,51.0,ATM,Debit,Atlanta,2
+6179.91,57.0,Online,Debit,Phoenix,0
+6609.3,26.0,Branch,Credit,Houston,1
+3484.32,67.0,Branch,Debit,San Francisco,0
+754.21,18.0,ATM,Debit,Seattle,0
+751.0900000000001,18.0,Online,Debit,Atlanta,2
+8510.09,39.0,Branch,Credit,Kansas City,1
+1508.7200000000003,58.0,Online,Debit,Washington,0
+511.3699999999999,18.0,Online,Debit,San Jose,0
+12648.32,59.0,ATM,Debit,Memphis,1
+233.21000000000004,54.0,Branch,Credit,Portland,0
+1092.92,23.0,ATM,Debit,Boston,2
+6711.15,59.0,ATM,Debit,Los Angeles,1
+459.3699999999999,25.0,Online,Credit,Seattle,0
+6994.34,79.0,Branch,Debit,Sacramento,0
+7071.09,43.0,Branch,Debit,Louisville,1
+9045.19,44.0,ATM,Debit,Fort Worth,1
+5238.71,79.0,Online,Credit,Charlotte,2
+9642.12,43.0,Online,Debit,Las Vegas,1
+6263.96,26.0,Online,Credit,Washington,0
+7460.33,72.0,Branch,Debit,Denver,2
+4233.82,61.0,Online,Debit,San Francisco,0
+8303.9,42.0,ATM,Debit,San Jose,0
+314.27999999999975,28.0,Online,Debit,El Paso,2
+5241.23,35.0,Online,Debit,Baltimore,2
+323.6899999999996,54.0,ATM,Credit,Kansas City,1
+6863.06,46.0,Branch,Debit,New York,0
+3877.73,76.0,Online,Debit,Denver,2
+4046.58,69.0,Branch,Debit,Fresno,1
+2409.73,72.0,ATM,Debit,Raleigh,0
+5211.88,58.0,Branch,Debit,Washington,0
+6217.86,45.0,ATM,Debit,Seattle,0
+5978.12,25.0,Online,Debit,Philadelphia,0
+1671.6599999999999,26.0,Online,Credit,San Antonio,0
+8421.88,58.0,Branch,Credit,Philadelphia,0
+14611.9,53.0,Branch,Debit,San Diego,0
+8253.52,64.0,ATM,Debit,San Diego,0
+4489.79,63.0,Branch,Debit,Miami,1
+11903.82,37.0,Branch,Credit,New York,0
+483.02000000000044,22.0,Online,Credit,San Francisco,0
+816.0799999999999,21.0,Branch,Debit,Virginia Beach,0
+578.0599999999995,25.0,ATM,Debit,Boston,2
+477.3000000000002,25.0,Online,Debit,Omaha,0
+3133.8499999999995,53.0,ATM,Debit,Las Vegas,1
+5894.09,68.0,Online,Debit,Dallas,2
+9532.42,22.0,ATM,Debit,Los Angeles,1
+5327.03,51.0,Branch,Debit,Fort Worth,1
+2000.6,34.0,ATM,Debit,Phoenix,0
+6827.57,56.0,ATM,Debit,San Francisco,0
+1633.7600000000002,27.0,Branch,Debit,Oklahoma City,0
+4069.17,73.0,ATM,Debit,Washington,0
+7943.47,51.0,Branch,Credit,Fort Worth,1
+8842.47,39.0,Online,Credit,Houston,1
+1882.77,24.0,Online,Debit,Phoenix,0
+12526.71,37.0,Branch,Debit,Mesa,1
+4737.84,21.0,Online,Debit,Nashville,1
+2300.53,78.0,Branch,Debit,Virginia Beach,0
+12385.05,30.0,Branch,Debit,Columbus,2
+4547.06,31.0,Branch,Credit,Fort Worth,1
+2047.83,36.0,Online,Debit,Oklahoma City,0
+10008.33,70.0,Branch,Debit,San Diego,0
+2299.64,62.0,ATM,Debit,Omaha,0
+243.92000000000007,27.0,Online,Debit,Denver,2
+14473.33,50.0,Branch,Debit,Dallas,2
+1533.3199999999997,19.0,Online,Debit,Louisville,1
+7005.05,46.0,Branch,Debit,Los Angeles,1
+955.3999999999996,21.0,Branch,Debit,San Jose,0
+7844.88,42.0,ATM,Debit,Houston,1
+221.5600000000004,20.0,ATM,Debit,Colorado Springs,2
+6586.19,54.0,Online,Debit,Columbus,2
+3944.82,65.0,Online,Debit,Louisville,1
+1127.98,27.0,Branch,Debit,Raleigh,0
+2626.63,58.0,ATM,Debit,Oklahoma City,0
+6459.38,48.0,Branch,Debit,Jacksonville,1
+1649.69,53.0,Branch,Credit,Los Angeles,1
+6939.23,33.0,ATM,Debit,Louisville,1
+9033.87,39.0,ATM,Debit,Tucson,0
+14365.18,31.0,Branch,Debit,Los Angeles,1
+10115.18,29.0,Branch,Debit,Los Angeles,1
+7358.65,74.0,ATM,Debit,Chicago,2
+4438.03,53.0,Online,Debit,Kansas City,1
+1176.1,26.0,Branch,Debit,Mesa,1
+5427.98,26.0,Branch,Debit,Philadelphia,0
+3653.11,37.0,Online,Debit,Virginia Beach,0
+2104.82,55.0,Branch,Debit,Atlanta,2
+1802.77,21.0,ATM,Debit,Indianapolis,1
+3559.96,37.0,ATM,Debit,Detroit,2
+3564.8,69.0,Branch,Debit,Denver,2
+6752.92,71.0,Online,Debit,Washington,0
+1444.75,26.0,Branch,Debit,Nashville,1
+10788.89,58.0,Branch,Debit,Atlanta,2
+2235.7,55.0,Online,Debit,San Antonio,0
+12893.63,65.0,ATM,Debit,San Diego,0
+2798.15,27.0,Branch,Debit,Los Angeles,1
+3583.67,46.0,Online,Debit,San Antonio,0
+2120.8,47.0,ATM,Debit,Houston,1
+3085.38,77.0,ATM,Debit,Houston,1
+6797.71,42.0,Branch,Debit,San Jose,0
+746.4700000000003,27.0,ATM,Debit,Memphis,1
+5427.81,75.0,Branch,Debit,Nashville,1
+7467.3,53.0,ATM,Debit,Miami,1
+6362.16,38.0,Online,Debit,Fresno,1
+8345.26,54.0,Branch,Debit,Colorado Springs,2
+1305.7600000000002,27.0,Online,Debit,Boston,2
+13648.36,29.0,ATM,Debit,Colorado Springs,2
+1337.5,43.0,Online,Debit,Charlotte,2
+2015.69,42.0,ATM,Debit,Mesa,1
+8354.54,69.0,Online,Debit,Colorado Springs,2
+1671.5100000000002,26.0,Branch,Credit,San Francisco,0
+11822.53,68.0,ATM,Debit,Omaha,0
+587.1099999999997,23.0,ATM,Debit,Chicago,2
+5422.53,56.0,Branch,Debit,Austin,2
+1913.73,58.0,Online,Debit,Phoenix,0
+12139.83,37.0,Online,Credit,Oklahoma City,0
+4693.6,69.0,ATM,Debit,Colorado Springs,2
+464.1999999999998,30.0,ATM,Debit,Raleigh,0
+4363.74,80.0,ATM,Debit,Denver,2
+3319.76,72.0,ATM,Debit,Oklahoma City,0
+4356.98,62.0,ATM,Debit,Fresno,1
+1519.35,28.0,Branch,Debit,San Diego,0
+5962.58,71.0,ATM,Debit,San Francisco,0
+6699.23,40.0,Branch,Credit,Denver,2
+822.7299999999996,21.0,ATM,Debit,Oklahoma City,0
+13964.31,42.0,Branch,Credit,Dallas,2
+867.3199999999997,20.0,Online,Debit,Albuquerque,2
+1035.8599999999997,64.0,ATM,Debit,Atlanta,2
+13347.69,41.0,Branch,Debit,El Paso,2
+8478.9,32.0,Online,Debit,Oklahoma City,0
+11088.95,57.0,Branch,Debit,Phoenix,0
+6280.66,59.0,ATM,Debit,Mesa,1
+481.1300000000001,44.0,ATM,Debit,Austin,2
+1122.8799999999997,26.0,ATM,Credit,Phoenix,0
+8431.23,58.0,Branch,Debit,Phoenix,0
+8342.79,38.0,Online,Credit,Denver,2
+7182.22,58.0,Branch,Debit,New York,0
+1692.15,67.0,Online,Debit,Los Angeles,1
+1695.5699999999997,27.0,ATM,Debit,San Antonio,0
+6264.21,49.0,Online,Debit,El Paso,2
+8497.34,52.0,Branch,Debit,Virginia Beach,0
+1272.12,40.0,ATM,Debit,Seattle,0
+3959.62,56.0,Online,Debit,Las Vegas,1
+476.1899999999996,19.0,ATM,Debit,Omaha,0
+1872.2200000000003,25.0,Online,Credit,San Jose,0
+3117.39,49.0,Online,Debit,Virginia Beach,0
+1841.69,22.0,Online,Credit,Virginia Beach,0
+7697.68,80.0,Branch,Debit,Columbus,2
+7580.59,29.0,ATM,Debit,Colorado Springs,2
+7936.91,35.0,Online,Debit,Columbus,2
+6642.33,67.0,Branch,Debit,Charlotte,2
+7642.25,61.0,Branch,Credit,Memphis,1
+136.73999999999978,26.0,ATM,Debit,Miami,1
+319.84000000000015,23.0,Online,Debit,Jacksonville,1
+12662.66,40.0,Online,Credit,Sacramento,0
+8126.06,44.0,Branch,Debit,Philadelphia,0
+705.75,42.0,ATM,Debit,Milwaukee,1
+5331.57,73.0,Branch,Debit,Washington,0
+7645.47,27.0,Branch,Debit,Seattle,0
+8119.73,51.0,ATM,Debit,Colorado Springs,2
+6101.15,46.0,ATM,Debit,Louisville,1
+2561.42,80.0,Branch,Debit,Raleigh,0
+11905.64,58.0,Branch,Credit,Tucson,0
+7095.88,64.0,ATM,Credit,Omaha,0
+4382.73,58.0,Online,Debit,Dallas,2
+1328.73,18.0,ATM,Credit,San Antonio,0
+1278.0,23.0,ATM,Debit,San Francisco,0
+1749.79,61.0,Branch,Debit,Dallas,2
+2929.51,80.0,Branch,Debit,Oklahoma City,0
+8926.38,29.0,Branch,Debit,Kansas City,1
+5977.59,59.0,Online,Credit,Albuquerque,2
+7676.92,72.0,ATM,Debit,El Paso,2
+4657.7,45.0,ATM,Debit,Mesa,1
+5579.11,53.0,Branch,Debit,Charlotte,2
+3293.01,34.0,Branch,Debit,New York,0
+7998.25,57.0,ATM,Debit,Detroit,2
+1093.8900000000003,24.0,Online,Debit,Colorado Springs,2
+3435.34,30.0,Branch,Debit,Tucson,0
+344.0699999999997,58.0,Online,Debit,Virginia Beach,0
+3897.17,53.0,ATM,Debit,Raleigh,0
+5358.95,67.0,ATM,Debit,Philadelphia,0
+627.79,27.0,Online,Debit,Houston,1
+7418.82,35.0,Branch,Debit,Las Vegas,1
+5615.26,36.0,Branch,Credit,Boston,2
+1995.1800000000003,24.0,Branch,Credit,Denver,2
+453.3900000000003,50.0,ATM,Debit,Las Vegas,1
+2173.76,66.0,ATM,Debit,Washington,0
+6452.14,39.0,Branch,Debit,Raleigh,0
+7713.67,75.0,Online,Credit,Omaha,0
+5528.36,42.0,Online,Debit,Phoenix,0
+9939.94,35.0,Online,Debit,Sacramento,0
+7016.99,34.0,ATM,Debit,Los Angeles,1
+2661.3,55.0,Branch,Credit,Indianapolis,1
+9410.17,60.0,Branch,Credit,Austin,2
+2026.3199999999997,54.0,Branch,Debit,Albuquerque,2
+7371.85,68.0,Branch,Debit,Phoenix,0
+264.8299999999999,19.0,Online,Debit,Miami,1
+10001.66,36.0,Online,Debit,Colorado Springs,2
+7752.14,77.0,ATM,Credit,Sacramento,0
+9594.11,34.0,Branch,Debit,Fresno,1
+1329.4099999999999,21.0,Branch,Debit,Boston,2
+11624.93,38.0,ATM,Debit,Memphis,1
+168.84000000000015,22.0,ATM,Debit,El Paso,2
+160.5699999999997,28.0,Online,Debit,Fort Worth,1
+7135.64,58.0,ATM,Debit,Milwaukee,1
+469.1400000000003,27.0,Branch,Debit,Louisville,1
+7517.5,67.0,Online,Debit,Austin,2
+919.8400000000001,20.0,ATM,Debit,Detroit,2
+8013.63,48.0,ATM,Debit,Charlotte,2
+5077.06,54.0,Branch,Debit,New York,0
+2791.2,51.0,Online,Debit,Philadelphia,0
+1777.38,62.0,Branch,Credit,Nashville,1
+7749.14,68.0,Branch,Debit,Milwaukee,1
+4516.76,66.0,Online,Debit,Detroit,2
+2016.02,68.0,Online,Debit,Atlanta,2
+1959.52,18.0,ATM,Debit,Omaha,0
+3876.61,80.0,Online,Debit,Kansas City,1
+1790.27,23.0,Branch,Debit,San Diego,0
+711.4700000000003,27.0,ATM,Debit,San Jose,0
+12154.66,35.0,ATM,Debit,Fresno,1
+1546.2200000000003,26.0,ATM,Debit,Fort Worth,1
+7208.15,44.0,ATM,Debit,Kansas City,1
+9267.32,59.0,Online,Credit,Omaha,0
+6485.78,63.0,Online,Debit,Dallas,2
+3984.38,65.0,ATM,Debit,Virginia Beach,0
+412.77999999999975,60.0,ATM,Debit,Columbus,2
+4795.65,54.0,Online,Credit,Colorado Springs,2
+246.5699999999997,28.0,Branch,Credit,Raleigh,0
+1058.1300000000006,18.0,ATM,Debit,Oklahoma City,0
+2564.62,55.0,ATM,Credit,Raleigh,0
+6631.5,54.0,Online,Debit,New York,0
+1661.6800000000003,21.0,Online,Debit,Fort Worth,1
+5504.01,54.0,Online,Credit,Omaha,0
+312.1899999999996,18.0,ATM,Debit,Oklahoma City,0
+2445.58,69.0,Branch,Credit,Fresno,1
+10862.99,62.0,ATM,Debit,Oklahoma City,0
+5414.87,55.0,Online,Debit,Philadelphia,0
+3919.44,55.0,ATM,Debit,Milwaukee,1
+7315.34,58.0,Branch,Debit,Oklahoma City,0
+3740.73,46.0,ATM,Debit,Nashville,1
+465.6300000000001,26.0,ATM,Debit,El Paso,2
+9992.36,53.0,Online,Debit,Milwaukee,1
+5141.19,57.0,ATM,Debit,Mesa,1
+4317.85,45.0,ATM,Debit,Los Angeles,1
+5326.68,30.0,ATM,Debit,Kansas City,1
+1636.3199999999997,23.0,Branch,Debit,Raleigh,0
+7932.41,77.0,Branch,Debit,Dallas,2
+3927.69,60.0,Online,Debit,Detroit,2
+588.5,27.0,ATM,Debit,Chicago,2
+8517.95,30.0,Branch,Credit,Boston,2
+2401.59,76.0,Branch,Credit,Philadelphia,0
+6776.41,19.0,Branch,Debit,Columbus,2
+5529.92,48.0,Branch,Debit,Philadelphia,0
+9009.42,40.0,Branch,Debit,Tucson,0
+5994.87,57.0,Branch,Debit,Denver,2
+5468.58,65.0,Online,Debit,Raleigh,0
+5677.52,39.0,ATM,Debit,Omaha,0
+14180.21,43.0,Online,Credit,San Antonio,0
+9895.1,40.0,Online,Credit,Fresno,1
+2232.84,39.0,Branch,Debit,Baltimore,2
+7739.54,57.0,ATM,Debit,El Paso,2
+431.15999999999985,19.0,Branch,Credit,Nashville,1
+6044.93,59.0,ATM,Debit,Sacramento,0
+922.1900000000005,25.0,ATM,Debit,Atlanta,2
+447.52999999999975,51.0,ATM,Debit,San Diego,0
+10778.35,48.0,Online,Debit,Las Vegas,1
+7513.79,41.0,Online,Debit,Miami,1
+2051.25,46.0,Online,Debit,San Francisco,0
+1038.9099999999994,63.0,ATM,Debit,Kansas City,1
+6854.61,51.0,Branch,Credit,Detroit,2
+619.8599999999997,18.0,ATM,Debit,Boston,2
+11320.83,30.0,Branch,Debit,San Antonio,0
+14510.8,60.0,Branch,Debit,Chicago,2
+5103.67,54.0,Online,Debit,Louisville,1
+13793.53,55.0,Online,Debit,Oklahoma City,0
+2403.39,50.0,Online,Debit,Mesa,1
+3075.97,60.0,Online,Debit,Milwaukee,1
+7835.4,28.0,Online,Debit,Albuquerque,2
+414.4300000000003,20.0,Branch,Debit,Nashville,1
+6116.8,40.0,Branch,Debit,Raleigh,0
+6067.62,71.0,ATM,Debit,Philadelphia,0
+7341.43,53.0,Branch,Debit,Seattle,0
+1240.71,21.0,Online,Credit,Omaha,0
+1454.08,22.0,ATM,Debit,Mesa,1
+1476.9099999999999,26.0,Branch,Debit,Columbus,2
+1943.13,18.0,Branch,Debit,Milwaukee,1
+1719.9700000000003,28.0,Online,Debit,Miami,1
+832.8199999999997,53.0,ATM,Debit,El Paso,2
+7696.16,30.0,Online,Debit,Tucson,0
+7004.63,76.0,Online,Credit,Charlotte,2
+6385.69,68.0,ATM,Debit,Colorado Springs,2
+5472.03,35.0,Online,Debit,Chicago,2
+8602.22,30.0,Branch,Debit,New York,0
+162.52999999999975,19.0,Online,Debit,Mesa,1
+9370.9,44.0,Online,Credit,Seattle,0
+8570.82,55.0,Online,Credit,Nashville,1
+522.0799999999999,44.0,ATM,Credit,Chicago,2
+836.6700000000001,34.0,ATM,Debit,Houston,1
+364.72000000000025,18.0,Branch,Credit,San Diego,0
+8557.32,35.0,Branch,Debit,Washington,0
+1579.5699999999997,24.0,ATM,Debit,Fort Worth,1
+129.28999999999996,27.0,Branch,Debit,Charlotte,2
+6474.41,39.0,Online,Debit,Charlotte,2
+1380.21,21.0,Online,Debit,Raleigh,0
+7487.79,56.0,ATM,Debit,Phoenix,0
+7986.63,54.0,Branch,Debit,Fresno,1
+7322.01,64.0,ATM,Debit,Indianapolis,1
+9929.43,34.0,ATM,Debit,Omaha,0
+1830.98,19.0,Branch,Debit,Austin,2
+3012.31,33.0,ATM,Credit,Detroit,2
+7198.8,31.0,Online,Debit,Jacksonville,1
+10980.38,63.0,Branch,Debit,Austin,2
+868.3500000000004,26.0,Branch,Credit,Fort Worth,1
+3773.29,80.0,Branch,Credit,Virginia Beach,0
+6697.77,67.0,ATM,Debit,Tucson,0
+9410.99,37.0,Online,Debit,Virginia Beach,0
+6213.32,37.0,Online,Debit,Fort Worth,1
+368.77999999999975,21.0,Branch,Debit,Houston,1
+1663.31,28.0,Branch,Credit,Baltimore,2
+711.6599999999999,60.0,ATM,Debit,Denver,2
+2403.25,75.0,Online,Credit,Los Angeles,1
+5957.37,52.0,Branch,Credit,Virginia Beach,0
+801.0100000000002,24.0,Branch,Debit,Oklahoma City,0
+5711.71,40.0,ATM,Credit,Baltimore,2
+928.3299999999999,24.0,Online,Debit,Albuquerque,2
+7365.28,52.0,Branch,Credit,Sacramento,0
+5839.38,51.0,Branch,Debit,Nashville,1
+5116.98,26.0,Online,Credit,El Paso,2
+3641.07,72.0,ATM,Debit,Seattle,0
+1352.19,70.0,ATM,Debit,Denver,2
+7299.86,29.0,Online,Debit,Fresno,1
+1503.56,19.0,ATM,Debit,Dallas,2
+5943.13,69.0,ATM,Debit,Charlotte,2
+895.6599999999999,54.0,Online,Debit,Memphis,1
+5669.1,67.0,Branch,Credit,Las Vegas,1
+1061.96,21.0,Online,Debit,Jacksonville,1
+1592.94,25.0,Branch,Debit,Philadelphia,0
+6215.96,43.0,ATM,Debit,San Antonio,0
+6171.89,39.0,Online,Debit,Washington,0
+5987.67,59.0,Branch,Debit,Columbus,2
+14783.33,68.0,Online,Debit,Virginia Beach,0
+4708.29,76.0,Branch,Credit,Dallas,2
+1806.0,22.0,Online,Debit,Kansas City,1
+13240.719999999998,54.0,Online,Debit,Louisville,1
+1196.0699999999997,27.0,Branch,Credit,Tucson,0
+1408.0699999999997,27.0,Branch,Debit,Miami,1
+271.77999999999975,19.0,ATM,Debit,Fort Worth,1
+9419.27,49.0,ATM,Debit,Milwaukee,1
+9551.64,41.0,Branch,Debit,Dallas,2
+1070.4700000000007,44.0,Branch,Debit,Charlotte,2
+9374.24,49.0,ATM,Debit,New York,0
+4253.18,66.0,Online,Credit,Chicago,2
+6981.03,55.0,ATM,Debit,Oklahoma City,0
+10483.93,57.0,Online,Debit,Raleigh,0
+9588.07,34.0,Online,Debit,Denver,2
+1238.1099999999997,47.0,ATM,Debit,Denver,2
+1244.9300000000003,22.0,Branch,Debit,San Diego,0
+1040.25,26.0,Branch,Debit,Colorado Springs,2
+5757.67,78.0,Branch,Debit,Las Vegas,1
+1712.65,27.0,ATM,Debit,Detroit,2
+1544.88,25.0,Online,Debit,Oklahoma City,0
+13293.829999999998,60.0,Online,Debit,Dallas,2
+8839.67,30.0,ATM,Debit,El Paso,2
+6239.89,56.0,Online,Credit,Miami,1
+8459.18,32.0,Branch,Debit,Chicago,2
+9073.17,65.0,Branch,Debit,Miami,1
+7561.33,78.0,ATM,Debit,Fort Worth,1
+694.0299999999997,21.0,Branch,Credit,Fort Worth,1
+2276.57,50.0,Online,Credit,Los Angeles,1
+2791.12,28.0,ATM,Credit,San Antonio,0
+9808.97,28.0,Online,Debit,Albuquerque,2
+6324.09,57.0,ATM,Debit,San Francisco,0
+13406.0,70.0,ATM,Debit,Oklahoma City,0
+6581.55,51.0,Branch,Debit,Miami,1
+3140.79,64.0,Branch,Debit,Raleigh,0
+10357.26,30.0,Online,Credit,Detroit,2
+461.8299999999999,21.0,Branch,Credit,New York,0
+5670.0,53.0,ATM,Debit,Philadelphia,0
+4040.32,79.0,Branch,Credit,Atlanta,2
+220.51000000000022,20.0,Branch,Debit,Atlanta,2
+3634.76,62.0,Online,Debit,New York,0
+7180.48,39.0,Online,Credit,Boston,2
+1389.71,75.0,Online,Credit,Mesa,1
+5002.7,78.0,ATM,Credit,Boston,2
+9239.12,20.0,ATM,Debit,Columbus,2
+666.4200000000001,24.0,ATM,Debit,Memphis,1
+11351.64,51.0,Branch,Credit,Boston,2
+7234.15,43.0,ATM,Debit,Detroit,2
+2049.51,27.0,Branch,Debit,Colorado Springs,2
+8865.27,68.0,ATM,Debit,New York,0
+3908.47,18.0,Branch,Debit,Albuquerque,2
+5587.44,26.0,ATM,Debit,Seattle,0
+438.75,50.0,Online,Debit,Milwaukee,1
+609.6000000000004,28.0,Online,Debit,Phoenix,0
+2393.73,68.0,Branch,Credit,Jacksonville,1
+3914.84,54.0,Branch,Credit,Kansas City,1
+818.3599999999997,28.0,Branch,Debit,Detroit,2
+304.4399999999996,18.0,Branch,Debit,Seattle,0
+9553.42,30.0,Online,Credit,Philadelphia,0
+3034.67,59.0,Branch,Credit,Houston,1
+5515.32,43.0,ATM,Debit,Jacksonville,1
+1677.0100000000002,36.0,Branch,Debit,San Antonio,0
+4055.55,53.0,Branch,Debit,Los Angeles,1
+9899.94,33.0,ATM,Debit,San Diego,0
+756.7399999999998,18.0,Branch,Debit,Miami,1
+2620.74,43.0,Branch,Debit,Raleigh,0
+11090.24,30.0,ATM,Debit,Portland,0
+2174.16,64.0,ATM,Debit,Nashville,1
+7854.1,46.0,Branch,Credit,Virginia Beach,0
+8253.65,49.0,Branch,Credit,Oklahoma City,0
+874.1499999999996,18.0,ATM,Debit,Tucson,0
+6043.25,31.0,Branch,Debit,Philadelphia,0
+2766.12,37.0,Branch,Debit,Charlotte,2
+8171.26,56.0,Online,Debit,Denver,2
+5401.21,33.0,ATM,Debit,Sacramento,0
+3548.02,27.0,Online,Debit,Memphis,1
+160.82999999999993,27.0,Online,Debit,Portland,0
+752.25,24.0,Branch,Credit,Portland,0
+2459.84,39.0,Online,Credit,Los Angeles,1
+469.1199999999999,41.0,Branch,Credit,El Paso,2
+8441.61,61.0,Online,Credit,Miami,1
+3806.16,60.0,Online,Debit,Portland,0
+6133.41,46.0,ATM,Debit,Atlanta,2
+8802.97,47.0,Branch,Debit,Kansas City,1
+14881.77,68.0,Online,Credit,Houston,1
+1106.3400000000001,63.0,ATM,Debit,Colorado Springs,2
+5005.33,53.0,Online,Credit,Fresno,1
+7949.03,58.0,Branch,Debit,New York,0
+259.77000000000044,26.0,ATM,Debit,Seattle,0
+2114.3,49.0,ATM,Debit,San Francisco,0
+5495.3,51.0,ATM,Debit,Fort Worth,1
+8461.46,50.0,Branch,Debit,Fresno,1
+6870.84,52.0,Online,Credit,San Jose,0
+5058.83,49.0,Branch,Debit,Memphis,1
+8885.0,31.0,Branch,Debit,San Jose,0
+530.8099999999995,24.0,Online,Debit,Albuquerque,2
+9379.53,23.0,ATM,Debit,Raleigh,0
+6475.13,59.0,Branch,Debit,Nashville,1
+319.03999999999996,34.0,Branch,Debit,Mesa,1
+5298.85,41.0,Online,Debit,Phoenix,0
+490.5699999999997,21.0,Online,Debit,Sacramento,0
+11310.27,67.0,ATM,Debit,Fresno,1
+3988.75,62.0,ATM,Debit,Seattle,0
+7484.32,51.0,ATM,Debit,Baltimore,2
+4815.11,58.0,Online,Credit,San Jose,0
+5963.1,51.0,Branch,Debit,Oklahoma City,0
+10427.0,52.0,ATM,Debit,Virginia Beach,0
+296.47000000000025,21.0,ATM,Credit,Fresno,1
+1100.0599999999995,65.0,ATM,Debit,Kansas City,1
+910.2600000000002,19.0,Online,Debit,San Diego,0
+6684.34,29.0,Branch,Debit,Tucson,0
+8524.09,40.0,ATM,Debit,Austin,2
+5126.65,53.0,ATM,Debit,Philadelphia,0
+873.8900000000003,22.0,Branch,Debit,Virginia Beach,0
+7059.77,57.0,Branch,Debit,Miami,1
+11991.24,58.0,ATM,Debit,Denver,2
+8086.04,18.0,ATM,Debit,Columbus,2
+12626.49,63.0,ATM,Debit,San Antonio,0
+1730.2799999999997,75.0,Branch,Debit,Jacksonville,1
+3143.17,44.0,Branch,Debit,Milwaukee,1
+1242.4899999999998,27.0,ATM,Debit,Las Vegas,1
+1886.3599999999997,55.0,Branch,Credit,Chicago,2
+416.8900000000003,26.0,Branch,Debit,Sacramento,0
+5929.08,53.0,Branch,Debit,Denver,2
+479.0799999999999,23.0,Online,Debit,Milwaukee,1
+5862.99,33.0,Online,Credit,Oklahoma City,0
+797.1000000000004,27.0,Branch,Debit,San Francisco,0
+7287.94,65.0,ATM,Debit,Washington,0
+5624.86,59.0,Online,Credit,Jacksonville,1
+2988.41,39.0,Branch,Credit,Seattle,0
+2712.96,53.0,ATM,Debit,Kansas City,1
+1433.6599999999999,24.0,Online,Debit,Colorado Springs,2
+7336.56,30.0,Online,Debit,Miami,1
+475.6300000000001,18.0,ATM,Debit,Philadelphia,0
+11698.15,65.0,Branch,Debit,Kansas City,1
+1034.35,21.0,Online,Credit,Fresno,1
+12042.79,64.0,ATM,Debit,Phoenix,0
+518.54,26.0,Online,Debit,Columbus,2
+1258.9300000000003,23.0,ATM,Debit,San Francisco,0
+9127.65,68.0,ATM,Debit,Los Angeles,1
+4471.05,34.0,ATM,Debit,Fort Worth,1
+6214.54,29.0,Online,Debit,Detroit,2
+1187.04,24.0,Branch,Credit,Milwaukee,1
+354.89999999999964,36.0,Online,Debit,Charlotte,2
+791.46,35.0,Branch,Debit,Las Vegas,1
+5878.89,52.0,ATM,Debit,Chicago,2
+533.1999999999998,20.0,Online,Debit,Detroit,2
+897.9400000000005,24.0,ATM,Debit,Fresno,1
+9159.56,30.0,Branch,Debit,Tucson,0
+4392.73,45.0,ATM,Debit,Nashville,1
+1390.98,58.0,Branch,Debit,Columbus,2
+2008.77,40.0,Online,Debit,El Paso,2
+6356.96,30.0,Online,Debit,Washington,0
+6009.12,64.0,Online,Debit,Las Vegas,1
+7896.85,76.0,ATM,Debit,Oklahoma City,0
+1649.4300000000003,24.0,ATM,Debit,San Antonio,0
+2840.43,67.0,Branch,Debit,Colorado Springs,2
+3274.96,57.0,Online,Debit,San Jose,0
+6501.56,73.0,Online,Debit,Tucson,0
+363.9200000000001,26.0,ATM,Debit,Kansas City,1
+9748.48,27.0,Online,Debit,Mesa,1
+1404.5299999999997,19.0,ATM,Debit,Chicago,2
+706.4400000000005,21.0,ATM,Debit,Dallas,2
+5095.73,44.0,ATM,Debit,Charlotte,2
+3059.79,65.0,Branch,Credit,San Francisco,0
+7844.23,33.0,ATM,Debit,San Antonio,0
+1119.6099999999992,28.0,ATM,Debit,Fort Worth,1
+5313.97,58.0,Online,Debit,Memphis,1
+6227.99,31.0,ATM,Debit,Phoenix,0
+6810.94,60.0,ATM,Debit,San Diego,0
+1457.0699999999997,55.0,Online,Debit,San Antonio,0
+813.6800000000003,22.0,Branch,Debit,Oklahoma City,0
+1518.8199999999997,27.0,Branch,Credit,Philadelphia,0
+10269.78,50.0,ATM,Debit,San Antonio,0
+672.79,42.0,Branch,Debit,Detroit,2
+6024.8,61.0,Branch,Credit,Fresno,1
+2158.59,56.0,Online,Credit,Indianapolis,1
+6011.8,43.0,Branch,Credit,Indianapolis,1
+6372.58,73.0,ATM,Debit,Fort Worth,1
+2569.56,57.0,Branch,Debit,San Diego,0
+10585.48,61.0,ATM,Debit,San Francisco,0
+717.9899999999998,52.0,ATM,Debit,Las Vegas,1
+3689.65,72.0,Online,Debit,Fresno,1
+1512.1599999999999,28.0,Branch,Debit,Sacramento,0
+14389.45,64.0,Online,Credit,Denver,2
+9800.21,36.0,Branch,Debit,El Paso,2
+7014.69,74.0,ATM,Debit,Phoenix,0
+3520.61,79.0,ATM,Debit,San Jose,0
+4913.42,80.0,Online,Debit,Houston,1
+9155.35,38.0,Branch,Debit,San Jose,0
+2567.53,46.0,Online,Debit,Fort Worth,1
+3779.47,53.0,Online,Debit,Columbus,2
+4177.65,68.0,Online,Credit,Phoenix,0
+7284.76,28.0,Branch,Credit,Virginia Beach,0
+6530.59,66.0,Online,Debit,Atlanta,2
+7895.54,44.0,Online,Debit,El Paso,2
+6781.3,54.0,Online,Debit,Boston,2
+2091.78,29.0,Online,Debit,San Diego,0
+11108.39,41.0,ATM,Debit,Los Angeles,1
+9088.36,35.0,Branch,Debit,Portland,0
+4671.69,53.0,ATM,Debit,Colorado Springs,2
+7534.73,37.0,Branch,Debit,Fort Worth,1
+6353.14,29.0,ATM,Debit,Dallas,2
+13587.52,63.0,Branch,Debit,Oklahoma City,0
+1351.2399999999998,74.0,ATM,Debit,Denver,2
+2797.26,28.0,ATM,Debit,Jacksonville,1
+1222.77,21.0,Branch,Credit,Nashville,1
+3728.04,57.0,ATM,Debit,Indianapolis,1
+6067.44,57.0,Online,Debit,Detroit,2
+4292.16,63.0,Branch,Debit,Dallas,2
+3801.82,56.0,ATM,Debit,Jacksonville,1
+6353.22,64.0,Branch,Credit,Jacksonville,1
+1251.85,23.0,Online,Credit,Louisville,1
+11869.71,44.0,Online,Debit,Austin,2
+9409.43,29.0,Online,Debit,San Antonio,0
+6003.59,80.0,ATM,Debit,Jacksonville,1
+817.8299999999999,50.0,Online,Credit,Memphis,1
+3663.64,80.0,ATM,Debit,Chicago,2
+319.64999999999964,28.0,Branch,Debit,Colorado Springs,2
+478.22999999999956,40.0,Online,Credit,Nashville,1
+13446.81,44.0,Online,Debit,Detroit,2
+8012.81,53.0,Branch,Credit,New York,0
+4201.22,68.0,ATM,Debit,Mesa,1
+8870.89,18.0,ATM,Debit,Omaha,0
+906.1999999999998,27.0,Branch,Debit,San Francisco,0
+9286.37,46.0,Online,Debit,San Jose,0
+2224.08,70.0,Branch,Credit,Nashville,1
+14639.28,67.0,Online,Credit,Sacramento,0
+9733.59,45.0,Branch,Debit,Houston,1
+2756.2,29.0,ATM,Debit,San Diego,0
+6655.15,36.0,ATM,Debit,Mesa,1
+3233.87,55.0,ATM,Debit,San Diego,0
+1676.5699999999997,20.0,ATM,Debit,Fresno,1
+8371.11,54.0,Online,Debit,Colorado Springs,2
+2611.64,65.0,Branch,Credit,Chicago,2
+552.0599999999995,18.0,Branch,Credit,Kansas City,1
+6017.36,60.0,Branch,Credit,Omaha,0
+7281.46,34.0,Branch,Debit,Oklahoma City,0
+6847.47,26.0,Branch,Debit,Mesa,1
+13017.7,58.0,Branch,Debit,El Paso,2
+7597.66,26.0,ATM,Debit,Milwaukee,1
+7330.31,63.0,Branch,Debit,Nashville,1
+6711.78,52.0,Online,Debit,Louisville,1
+2248.06,54.0,ATM,Debit,Virginia Beach,0
+3524.68,70.0,Online,Debit,Austin,2
+8332.58,58.0,Branch,Credit,Omaha,0
+1814.48,22.0,Online,Credit,Seattle,0
+3886.77,37.0,Branch,Debit,Kansas City,1
+7591.13,79.0,Online,Debit,Omaha,0
+1484.31,57.0,ATM,Debit,San Jose,0
+9385.57,66.0,ATM,Debit,Miami,1
+4202.92,79.0,Branch,Debit,Dallas,2
+4813.12,66.0,Branch,Credit,Portland,0
+9716.68,18.0,Branch,Debit,Tucson,0
+1980.62,24.0,Online,Debit,Atlanta,2
+10216.25,41.0,Branch,Debit,Austin,2
+944.8299999999999,22.0,ATM,Debit,Phoenix,0
+7469.2,42.0,Branch,Credit,Nashville,1
+13389.16,68.0,Online,Debit,Memphis,1
+8475.47,52.0,ATM,Debit,Houston,1
+991.6900000000005,23.0,ATM,Credit,Tucson,0
+6953.8,63.0,Branch,Credit,Baltimore,2
+1370.0299999999997,34.0,Branch,Debit,Jacksonville,1
+14851.28,46.0,ATM,Debit,El Paso,2
+11505.35,34.0,Online,Debit,Sacramento,0
+914.2799999999997,26.0,Online,Debit,Oklahoma City,0
+9955.88,36.0,Online,Credit,Dallas,2
+4732.81,64.0,Online,Debit,Columbus,2
+530.8599999999997,20.0,Branch,Debit,Jacksonville,1
+3807.84,73.0,Online,Credit,San Antonio,0
+320.25,21.0,ATM,Debit,Phoenix,0
+12033.92,55.0,Branch,Debit,Sacramento,0
+6109.55,61.0,ATM,Debit,Mesa,1
+1691.88,20.0,Online,Debit,Chicago,2
+1697.67,18.0,ATM,Debit,Chicago,2
+8359.5,55.0,Branch,Debit,Detroit,2
+1629.12,26.0,ATM,Debit,Baltimore,2
+6100.08,42.0,ATM,Debit,San Antonio,0
+13872.03,45.0,ATM,Debit,Fort Worth,1
+10095.23,32.0,ATM,Debit,Fort Worth,1
+1504.9899999999998,21.0,Branch,Debit,Atlanta,2
+13182.11,32.0,Branch,Debit,Omaha,0
+4330.04,46.0,Online,Debit,Charlotte,2
+905.25,29.0,ATM,Debit,El Paso,2
+6972.5,38.0,ATM,Credit,Tucson,0
+3553.69,78.0,Branch,Debit,Louisville,1
+6164.65,69.0,ATM,Debit,San Francisco,0
+9626.14,28.0,Online,Debit,Kansas City,1
+6364.14,55.0,Online,Debit,Kansas City,1
+4351.83,77.0,Online,Debit,Washington,0
+5773.5,56.0,Online,Debit,New York,0
+9257.04,30.0,Branch,Debit,Los Angeles,1
+6335.58,68.0,Online,Credit,Charlotte,2
+5403.79,49.0,ATM,Debit,Portland,0
+8135.31,31.0,Online,Debit,Indianapolis,1
+9798.26,45.0,ATM,Debit,Philadelphia,0
+137.42000000000007,21.0,ATM,Debit,Raleigh,0
+7015.46,60.0,Online,Debit,Jacksonville,1
+2356.71,41.0,Online,Credit,San Francisco,0
+4294.44,75.0,Branch,Debit,Columbus,2
+9251.38,49.0,Branch,Credit,Milwaukee,1
+7542.74,55.0,Branch,Debit,Atlanta,2
+9880.71,26.0,Online,Credit,Colorado Springs,2
+6189.24,52.0,ATM,Debit,Colorado Springs,2
+12540.18,51.0,ATM,Debit,Omaha,0
+4586.11,53.0,Online,Debit,Jacksonville,1
+1519.38,65.0,Branch,Debit,Las Vegas,1
+1447.2600000000002,19.0,Branch,Debit,Detroit,2
+1131.4199999999996,23.0,Branch,Credit,Philadelphia,0
+10278.75,68.0,Online,Debit,Kansas City,1
+535.1499999999996,30.0,Online,Credit,Detroit,2
+859.8599999999997,18.0,Online,Debit,San Diego,0
+13891.47,29.0,Branch,Debit,Omaha,0
+1545.77,20.0,Branch,Debit,New York,0
+1046.7399999999993,18.0,Online,Credit,Detroit,2
+2840.45,42.0,Online,Credit,San Diego,0
+6216.77,69.0,Online,Debit,Seattle,0
+10141.92,51.0,Branch,Debit,Detroit,2
+1404.06,22.0,ATM,Credit,Los Angeles,1
+7795.79,27.0,ATM,Debit,Detroit,2
+3886.65,37.0,Online,Debit,Miami,1
+1560.4499999999998,21.0,Online,Credit,Portland,0
+13566.58,33.0,Online,Debit,Colorado Springs,2
+4749.54,72.0,Online,Debit,Boston,2
+1044.33,18.0,ATM,Debit,Raleigh,0
+2012.2399999999998,73.0,Branch,Credit,Fort Worth,1
+2487.2,48.0,ATM,Debit,Phoenix,0
+14977.99,37.0,ATM,Debit,San Jose,0
+1969.48,27.0,ATM,Debit,Chicago,2
+7001.2,78.0,Online,Debit,San Antonio,0
+2525.25,64.0,Branch,Credit,Nashville,1
+7457.94,35.0,ATM,Credit,Phoenix,0
+5386.52,46.0,Branch,Credit,Colorado Springs,2
+1690.23,18.0,Online,Debit,Memphis,1
+3114.92,28.0,Online,Debit,Tucson,0
+3466.74,70.0,Branch,Debit,Columbus,2
+9942.24,62.0,ATM,Debit,Houston,1
+9791.74,29.0,Online,Debit,San Jose,0
+6824.0,44.0,Online,Debit,New York,0
+8583.39,38.0,ATM,Debit,Sacramento,0
+1488.65,20.0,Branch,Debit,Tucson,0
+5583.88,19.0,Branch,Debit,San Antonio,0
+1357.2200000000003,25.0,ATM,Debit,Colorado Springs,2
+10553.23,65.0,Branch,Debit,Atlanta,2
+1619.6,25.0,Online,Credit,Virginia Beach,0
+9475.4,49.0,Online,Credit,Mesa,1
+8656.18,31.0,Online,Debit,Charlotte,2
+207.73999999999978,62.0,Branch,Credit,San Jose,0
+949.3800000000001,22.0,Branch,Debit,Charlotte,2
+1996.38,23.0,Branch,Debit,Atlanta,2
+8836.51,55.0,ATM,Debit,Los Angeles,1
+14330.47,30.0,Branch,Debit,Boston,2
+5368.42,46.0,ATM,Credit,Los Angeles,1
+8616.05,57.0,Branch,Debit,Louisville,1
+5906.58,41.0,ATM,Debit,Memphis,1
+7863.6,63.0,ATM,Debit,Houston,1
+2254.71,33.0,Branch,Debit,Raleigh,0
+6983.04,30.0,Online,Debit,Phoenix,0
+9697.75,36.0,ATM,Debit,Fort Worth,1
+5909.52,78.0,Online,Debit,Philadelphia,0
+7847.62,44.0,Branch,Debit,Kansas City,1
+4543.56,79.0,Branch,Debit,Portland,0
+1307.23,19.0,Branch,Debit,Fort Worth,1
+1819.9099999999999,23.0,ATM,Debit,Fresno,1
+577.6700000000001,25.0,ATM,Debit,Indianapolis,1
+7802.36,57.0,ATM,Debit,Mesa,1
+2596.61,62.0,Branch,Credit,Philadelphia,0
+2406.31,50.0,Branch,Debit,Fresno,1
+402.4499999999998,41.0,Branch,Credit,Fresno,1
+1238.4300000000003,27.0,ATM,Debit,Jacksonville,1
+796.3500000000004,18.0,Branch,Debit,Miami,1
+7888.76,47.0,ATM,Debit,Mesa,1
+4658.89,61.0,ATM,Debit,Houston,1
+5009.29,63.0,Online,Credit,Louisville,1
+1822.3400000000001,52.0,Branch,Credit,New York,0
+5346.46,39.0,Online,Debit,Seattle,0
+10704.95,31.0,ATM,Debit,Indianapolis,1
+2434.74,33.0,Branch,Debit,Louisville,1
+6568.07,27.0,Online,Debit,Columbus,2
+2791.45,52.0,Online,Credit,San Francisco,0
+658.9099999999999,57.0,Online,Debit,Louisville,1
+1346.88,28.0,Branch,Debit,Jacksonville,1
+3022.12,73.0,Online,Credit,Los Angeles,1
+1582.5500000000002,27.0,ATM,Debit,Detroit,2
+14395.88,66.0,ATM,Debit,Milwaukee,1
+1741.1,20.0,ATM,Debit,Miami,1
+1061.69,64.0,Branch,Debit,Charlotte,2
+7192.45,41.0,Online,Debit,Houston,1
+9923.45,58.0,Branch,Credit,Virginia Beach,0
+10915.11,58.0,ATM,Debit,Las Vegas,1
+719.5200000000004,22.0,ATM,Debit,Los Angeles,1
+7128.82,55.0,Branch,Debit,New York,0
+9028.49,59.0,Online,Debit,Indianapolis,1
+4656.94,79.0,Branch,Debit,Albuquerque,2
+6990.64,35.0,Online,Credit,Fresno,1
+6366.43,66.0,Branch,Debit,Seattle,0
+1382.62,26.0,ATM,Debit,Seattle,0
+14350.11,66.0,ATM,Debit,Boston,2
+12990.77,68.0,ATM,Debit,Phoenix,0
+4835.91,51.0,Branch,Debit,Mesa,1
+2154.58,60.0,ATM,Debit,Nashville,1
+14833.34,34.0,Online,Credit,San Jose,0
+5061.3,57.0,ATM,Debit,Nashville,1
+7225.06,72.0,Branch,Debit,Austin,2
+2607.58,79.0,Online,Debit,San Francisco,0
+11538.97,60.0,Branch,Credit,Louisville,1
+2834.84,76.0,Online,Credit,Philadelphia,0
+7822.73,38.0,Online,Debit,San Diego,0
+7604.9,58.0,Online,Credit,Raleigh,0
+1480.3900000000003,57.0,Online,Debit,Fresno,1
+13696.31,68.0,Branch,Debit,Raleigh,0
+12344.9,64.0,Branch,Credit,Sacramento,0
+8630.99,31.0,Branch,Credit,Virginia Beach,0
+2202.62,45.0,Online,Debit,Houston,1
+14409.74,44.0,Branch,Debit,Fort Worth,1
+4894.25,79.0,ATM,Debit,Charlotte,2
+8981.61,24.0,Branch,Debit,Portland,0
+3791.99,34.0,Online,Credit,Houston,1
+690.1599999999999,27.0,Branch,Debit,Denver,2
+6777.12,70.0,Online,Debit,Las Vegas,1
+5449.37,76.0,Online,Debit,Phoenix,0
+13779.97,36.0,Branch,Debit,Omaha,0
+9648.6,49.0,ATM,Debit,El Paso,2
+1029.1499999999996,28.0,Online,Debit,Virginia Beach,0
+3656.62,51.0,Branch,Credit,Jacksonville,1
+6710.51,41.0,ATM,Debit,Louisville,1
+1778.75,26.0,Branch,Debit,Louisville,1
+5191.13,23.0,Branch,Credit,Memphis,1
+14847.97,55.0,Branch,Credit,Sacramento,0
+5238.37,63.0,ATM,Debit,Boston,2
+10238.82,51.0,Branch,Credit,Las Vegas,1
+7491.42,73.0,ATM,Debit,Columbus,2
+2116.36,51.0,Branch,Debit,Fresno,1
+972.04,58.0,Online,Debit,Charlotte,2
+6430.86,26.0,Branch,Credit,Mesa,1
+14077.97,68.0,Branch,Debit,Virginia Beach,0
+3990.6,64.0,ATM,Debit,Portland,0
+961.6499999999996,22.0,Branch,Debit,San Antonio,0
+703.2600000000002,24.0,ATM,Debit,Boston,2
+1156.67,58.0,Branch,Debit,Denver,2
+1356.4700000000003,46.0,ATM,Debit,Colorado Springs,2
+1305.06,25.0,ATM,Credit,Charlotte,2
+261.97000000000025,25.0,ATM,Debit,Sacramento,0
+9500.79,59.0,Online,Debit,San Jose,0
+1210.3300000000004,25.0,Branch,Credit,San Antonio,0
+337.6199999999999,31.0,Branch,Debit,Los Angeles,1
+1806.6800000000003,27.0,Online,Debit,Albuquerque,2
+6323.45,54.0,Branch,Debit,El Paso,2
+7155.95,42.0,ATM,Debit,Boston,2
+7896.14,62.0,Online,Debit,San Antonio,0
+591.2299999999996,22.0,Branch,Debit,Omaha,0
+2583.07,62.0,ATM,Debit,Omaha,0
+234.40999999999985,43.0,Online,Debit,Oklahoma City,0
+4735.61,37.0,ATM,Debit,San Jose,0
+6617.52,69.0,Branch,Credit,Austin,2
+816.0100000000002,22.0,Branch,Debit,Charlotte,2
+7393.11,52.0,Online,Credit,Las Vegas,1
+13510.11,56.0,Branch,Debit,Fort Worth,1
+4466.1,79.0,Online,Debit,Austin,2
+7474.31,54.0,ATM,Debit,Detroit,2
+7225.63,68.0,ATM,Debit,Chicago,2
+7255.49,46.0,Branch,Debit,New York,0
+11417.91,65.0,ATM,Debit,Mesa,1
+1040.4300000000003,25.0,Branch,Debit,Houston,1
+6039.04,69.0,ATM,Credit,Mesa,1
+3498.58,32.0,Branch,Credit,Tucson,0
+6628.75,67.0,Online,Debit,Chicago,2
+10156.09,62.0,Branch,Credit,Omaha,0
+521.8800000000001,18.0,Online,Debit,Las Vegas,1
+9165.02,28.0,ATM,Debit,Mesa,1
+6704.76,27.0,Branch,Debit,Miami,1
+6384.05,77.0,Branch,Credit,Chicago,2
+6095.65,62.0,ATM,Debit,Kansas City,1
+1008.7600000000002,18.0,ATM,Debit,Phoenix,0
+4381.24,45.0,Branch,Debit,Raleigh,0
+1382.8000000000002,20.0,ATM,Debit,Milwaukee,1
+7380.63,26.0,Branch,Debit,Sacramento,0
+1981.67,63.0,Branch,Debit,Jacksonville,1
+7036.72,39.0,Online,Debit,Fresno,1
+3707.82,30.0,ATM,Debit,Virginia Beach,0
+2040.1599999999999,42.0,Online,Credit,Austin,2
+267.52999999999975,27.0,ATM,Debit,Baltimore,2
+2617.23,26.0,Online,Debit,El Paso,2
+8883.4,37.0,Online,Debit,San Diego,0
+1660.6599999999999,63.0,ATM,Debit,Fresno,1
+2011.6,67.0,Branch,Debit,Portland,0
+4309.9,79.0,Online,Debit,Miami,1
+362.39999999999964,31.0,ATM,Debit,San Antonio,0
+836.6900000000005,52.0,Online,Credit,Phoenix,0
+1913.06,28.0,Branch,Debit,Fort Worth,1
+563.46,19.0,Online,Debit,Baltimore,2
+6133.22,32.0,Online,Debit,Charlotte,2
+1068.2799999999993,25.0,Branch,Credit,Austin,2
+2037.75,71.0,Branch,Debit,Milwaukee,1
+221.78999999999996,26.0,Online,Debit,San Francisco,0
+1127.54,24.0,Online,Debit,Atlanta,2
+2061.61,56.0,Branch,Credit,New York,0
+9326.28,51.0,Online,Debit,San Antonio,0
+2240.49,36.0,ATM,Debit,Boston,2
+6579.37,74.0,ATM,Debit,Dallas,2
+1876.35,58.0,Branch,Debit,Raleigh,0
+1664.5900000000001,23.0,Branch,Debit,Fresno,1
+6910.18,54.0,ATM,Debit,Nashville,1
+1319.85,34.0,Branch,Debit,Los Angeles,1
+6095.5,63.0,Branch,Debit,Louisville,1
+2420.86,55.0,Branch,Debit,Boston,2
+359.0600000000004,21.0,Branch,Debit,Milwaukee,1
+3128.71,75.0,ATM,Debit,Fresno,1
+7587.48,54.0,ATM,Debit,San Francisco,0
+290.59000000000015,26.0,Branch,Debit,Milwaukee,1
+7707.96,47.0,Branch,Credit,Baltimore,2
+4735.41,63.0,Branch,Credit,San Jose,0
+6165.03,18.0,ATM,Debit,Los Angeles,1
+1637.75,21.0,Branch,Credit,San Jose,0
+585.5200000000004,24.0,Branch,Debit,El Paso,2
+5481.76,58.0,Branch,Debit,Atlanta,2
+1982.9,28.0,ATM,Credit,Fresno,1
+5766.96,65.0,Online,Debit,Charlotte,2
+7139.11,26.0,Online,Debit,El Paso,2
+4732.57,62.0,Branch,Credit,Mesa,1
+2293.13,35.0,ATM,Debit,Sacramento,0
+2870.67,30.0,Branch,Credit,Charlotte,2
+6885.16,56.0,Online,Debit,Fresno,1
+5500.56,44.0,Online,Debit,Portland,0
+5609.44,39.0,ATM,Debit,Mesa,1
+1228.9300000000003,65.0,Online,Credit,Philadelphia,0
+192.6300000000001,27.0,ATM,Debit,Kansas City,1
+6590.28,32.0,Branch,Debit,New York,0
+13485.0,30.0,Online,Debit,San Jose,0
+6472.5,53.0,Branch,Credit,Atlanta,2
+2571.39,28.0,Online,Debit,Chicago,2
+676.1000000000004,54.0,Online,Credit,Sacramento,0
+12352.2,56.0,Branch,Debit,Charlotte,2
+8765.38,29.0,Branch,Debit,Chicago,2
+1590.88,24.0,Online,Debit,Fort Worth,1
+7375.73,54.0,Online,Credit,San Diego,0
+1845.1800000000003,20.0,Branch,Debit,Baltimore,2
+1382.5100000000002,53.0,Online,Debit,Austin,2
+7508.98,74.0,Online,Debit,Memphis,1
+3901.82,22.0,ATM,Debit,Nashville,1
+4792.01,32.0,Branch,Debit,Fort Worth,1
+6887.52,42.0,Branch,Debit,Fresno,1
+8643.51,28.0,Online,Debit,Denver,2
+887.3199999999997,22.0,Online,Debit,San Francisco,0
+7174.69,25.0,Online,Debit,Fort Worth,1
+2679.91,48.0,Branch,Debit,Virginia Beach,0
+4315.07,60.0,Branch,Debit,Louisville,1
+8853.93,45.0,Online,Credit,Portland,0
+1088.6200000000003,61.0,Online,Debit,Austin,2
+1442.29,53.0,Branch,Debit,Omaha,0
+3798.09,52.0,ATM,Debit,San Diego,0
+9951.68,28.0,Branch,Debit,Phoenix,0
+9567.94,52.0,Online,Debit,Indianapolis,1
+2669.66,37.0,ATM,Debit,Nashville,1
+9630.0,31.0,Branch,Debit,Washington,0
+1307.8599999999997,19.0,Branch,Debit,Nashville,1
+1916.46,28.0,ATM,Debit,Oklahoma City,0
+167.27999999999975,20.0,ATM,Debit,Detroit,2
+10790.8,68.0,Branch,Debit,Miami,1
+9977.49,31.0,Branch,Debit,Memphis,1
+14563.02,35.0,Online,Debit,Albuquerque,2
+614.1400000000003,28.0,ATM,Credit,Indianapolis,1
+603.79,24.0,Online,Debit,Baltimore,2
+2197.12,51.0,ATM,Debit,Chicago,2
+8994.39,37.0,Online,Debit,San Jose,0
+3224.6,79.0,ATM,Debit,Milwaukee,1
+4336.4,63.0,Online,Debit,Chicago,2
+800.8299999999999,59.0,Online,Credit,Miami,1
+8821.84,47.0,Branch,Debit,Phoenix,0
+3173.17,64.0,ATM,Debit,Kansas City,1
+3299.84,76.0,Online,Debit,Oklahoma City,0
+421.4399999999996,21.0,Online,Debit,Austin,2
+1035.2200000000007,53.0,ATM,Debit,Chicago,2
+9724.49,53.0,Branch,Credit,Columbus,2
+7910.3,61.0,Online,Credit,Boston,2
+6041.69,65.0,Branch,Credit,Charlotte,2
+8436.12,50.0,Branch,Credit,Colorado Springs,2
+7125.15,62.0,Branch,Credit,Austin,2
+239.1199999999999,19.0,ATM,Credit,Miami,1
+4378.14,67.0,Online,Credit,San Antonio,0
+14576.47,41.0,ATM,Debit,Phoenix,0
+701.7299999999996,21.0,ATM,Debit,Dallas,2
+10922.78,41.0,Branch,Debit,Fort Worth,1
+642.0,24.0,ATM,Debit,Washington,0
+7707.96,52.0,Branch,Debit,Kansas City,1
+13267.09,46.0,Branch,Credit,Jacksonville,1
+3582.16,62.0,Branch,Debit,Houston,1
+921.9099999999999,25.0,Branch,Debit,Louisville,1
+5788.53,35.0,Branch,Debit,Nashville,1
+4515.43,36.0,Branch,Debit,Houston,1
+7551.89,76.0,Branch,Debit,Miami,1
+14489.69,65.0,ATM,Credit,Dallas,2
+13991.5,31.0,Branch,Credit,San Jose,0
+185.8699999999999,53.0,ATM,Credit,Jacksonville,1
+726.3900000000003,18.0,ATM,Debit,Denver,2
+7458.63,76.0,Branch,Debit,Fort Worth,1
+3065.87,61.0,ATM,Debit,Los Angeles,1
+9379.72,46.0,Branch,Credit,Fort Worth,1
+13696.61,59.0,Online,Credit,Memphis,1
+3743.63,62.0,ATM,Credit,Portland,0
+14343.0,42.0,ATM,Debit,Jacksonville,1
+2882.16,36.0,Online,Credit,Jacksonville,1
+5631.2,79.0,ATM,Debit,Phoenix,0
+4574.43,77.0,Branch,Credit,Louisville,1
+1242.62,24.0,ATM,Debit,Charlotte,2
+352.3100000000004,25.0,Branch,Credit,Atlanta,2
+3100.22,77.0,Online,Debit,Fort Worth,1
+4707.24,60.0,Branch,Credit,Miami,1
+7950.48,72.0,ATM,Debit,Columbus,2
+7954.12,54.0,Online,Debit,Baltimore,2
+5946.61,67.0,Branch,Debit,Boston,2
+6650.71,57.0,Online,Debit,Baltimore,2
+1268.67,28.0,ATM,Debit,Nashville,1
+8287.54,53.0,Branch,Debit,Atlanta,2
+12948.5,34.0,Branch,Credit,San Jose,0
+4746.71,55.0,Branch,Debit,Milwaukee,1
+5334.97,27.0,Branch,Debit,New York,0
+1765.4499999999998,55.0,Branch,Debit,Baltimore,2
+427.3000000000002,19.0,Online,Debit,Fort Worth,1
+6285.39,67.0,Branch,Debit,Denver,2
+1406.6,51.0,Online,Debit,Fort Worth,1
+1075.15,28.0,Online,Debit,Boston,2
+5958.34,77.0,Branch,Credit,Houston,1
+791.9700000000003,23.0,Branch,Debit,Miami,1
+1726.4,27.0,Online,Debit,Washington,0
+8992.25,46.0,Branch,Credit,Los Angeles,1
+7816.41,60.0,Branch,Credit,Jacksonville,1
+8271.47,62.0,ATM,Debit,Boston,2
+636.4200000000001,22.0,Branch,Debit,Colorado Springs,2
+2290.1,40.0,Online,Debit,Sacramento,0
+9968.49,32.0,Branch,Debit,Memphis,1
+167.72000000000025,28.0,ATM,Debit,Atlanta,2
+7581.7,31.0,ATM,Debit,Seattle,0
+4111.38,50.0,ATM,Debit,New York,0
+1680.1400000000003,28.0,ATM,Credit,Milwaukee,1
+5715.08,66.0,ATM,Debit,Indianapolis,1
+5897.73,47.0,Branch,Credit,Chicago,2
+5239.24,55.0,Online,Debit,Los Angeles,1
+7788.91,58.0,ATM,Debit,Omaha,0
+3898.64,79.0,Branch,Credit,Mesa,1
+1214.9300000000003,26.0,Branch,Debit,Baltimore,2
+927.4700000000003,20.0,Online,Debit,Indianapolis,1
+914.1599999999999,23.0,Online,Debit,Omaha,0
+9695.04,23.0,ATM,Debit,Charlotte,2
+8647.04,63.0,ATM,Debit,San Antonio,0
+1292.1,52.0,ATM,Debit,San Jose,0
+392.34000000000015,21.0,ATM,Debit,Mesa,1
+9877.17,60.0,ATM,Debit,Austin,2
+12059.85,58.0,Branch,Credit,Nashville,1
+6643.24,61.0,Online,Credit,Seattle,0
+9903.48,57.0,Branch,Debit,Kansas City,1
+151.42000000000007,22.0,ATM,Debit,Los Angeles,1
+2850.92,41.0,Branch,Debit,Virginia Beach,0
+10679.67,30.0,ATM,Debit,Nashville,1
+10652.13,51.0,Online,Credit,New York,0
+569.25,24.0,Branch,Debit,Baltimore,2
+954.8299999999999,24.0,Branch,Debit,Phoenix,0
+1831.1999999999998,76.0,ATM,Debit,Jacksonville,1
+9274.64,28.0,Online,Debit,Las Vegas,1
+9384.54,36.0,ATM,Debit,Jacksonville,1
+1483.8400000000001,67.0,ATM,Debit,Louisville,1
+1968.3599999999997,66.0,Online,Debit,New York,0
+4203.05,53.0,Online,Debit,New York,0
+959.9400000000005,19.0,Online,Credit,Jacksonville,1
+271.6400000000003,22.0,Online,Debit,Atlanta,2
+12571.76,41.0,Branch,Credit,Indianapolis,1
+8627.08,22.0,Online,Debit,El Paso,2
+524.46,18.0,Branch,Debit,Houston,1
+422.3199999999997,28.0,Branch,Debit,Jacksonville,1
+12961.530000000002,66.0,Branch,Credit,Dallas,2
+6381.6,68.0,Branch,Debit,Charlotte,2
+117.97999999999956,28.0,Branch,Debit,Detroit,2
+1715.2200000000003,57.0,Branch,Credit,Philadelphia,0
+5599.81,29.0,Online,Debit,San Francisco,0
+7904.24,61.0,Branch,Debit,Colorado Springs,2
+1490.44,49.0,Online,Debit,San Jose,0
+1532.7200000000003,56.0,ATM,Debit,Nashville,1
+5976.0,18.0,Branch,Debit,Denver,2
+1673.7600000000002,19.0,ATM,Credit,San Antonio,0
+3290.72,76.0,Branch,Debit,Chicago,2
+3030.97,26.0,ATM,Debit,Charlotte,2
+369.8599999999997,20.0,Branch,Debit,San Jose,0
+6570.36,58.0,Branch,Debit,Raleigh,0
+2264.98,76.0,Branch,Debit,Atlanta,2
+5029.87,75.0,Online,Credit,Jacksonville,1
+12327.74,62.0,Branch,Debit,Jacksonville,1
+420.25,20.0,Branch,Credit,San Jose,0
+6499.53,41.0,Online,Debit,Oklahoma City,0
+5172.99,62.0,Branch,Debit,San Francisco,0
+8981.1,54.0,Branch,Debit,Austin,2
+7915.0,34.0,ATM,Debit,Las Vegas,1
+500.84000000000015,27.0,Online,Debit,Omaha,0
+13784.4,43.0,Branch,Debit,Phoenix,0
+7392.79,62.0,Online,Credit,Indianapolis,1
+1134.7900000000004,26.0,ATM,Credit,Austin,2
+14765.41,34.0,Online,Credit,Albuquerque,2
+745.8699999999999,27.0,Branch,Credit,Los Angeles,1
+5360.19,68.0,ATM,Debit,Raleigh,0
+5878.14,72.0,Online,Debit,Colorado Springs,2
+5889.51,56.0,ATM,Debit,Omaha,0
+4381.54,33.0,Online,Debit,Houston,1
+8478.46,49.0,Online,Credit,Colorado Springs,2
+185.47000000000025,26.0,Online,Credit,Fort Worth,1
+2443.54,43.0,ATM,Debit,Raleigh,0
+699.8999999999996,23.0,Branch,Debit,Boston,2
+4739.59,27.0,ATM,Debit,Dallas,2
+12893.85,49.0,ATM,Debit,Baltimore,2
+2402.58,65.0,ATM,Debit,Jacksonville,1
+7626.53,59.0,Online,Credit,Oklahoma City,0
+1014.6300000000001,52.0,Online,Debit,Charlotte,2
+1358.54,28.0,ATM,Debit,Oklahoma City,0
+1602.13,23.0,ATM,Debit,Colorado Springs,2
+1105.8900000000008,27.0,Branch,Credit,Dallas,2
+1731.8900000000003,61.0,Online,Debit,Virginia Beach,0
+8692.47,29.0,ATM,Debit,San Francisco,0
+12578.75,53.0,Branch,Credit,Boston,2
+1712.4099999999999,67.0,Branch,Credit,Mesa,1
+3485.03,78.0,ATM,Debit,Washington,0
+1146.7800000000002,78.0,Branch,Credit,Colorado Springs,2
+6393.12,50.0,ATM,Debit,Philadelphia,0
+680.5500000000002,40.0,Online,Credit,Tucson,0
+7037.34,70.0,Online,Debit,Chicago,2
+12991.03,69.0,Online,Credit,Indianapolis,1
+105.01000000000022,28.0,Branch,Credit,San Francisco,0
+1360.85,32.0,Branch,Debit,Oklahoma City,0
+1649.92,25.0,Branch,Debit,Denver,2
+5237.36,52.0,Branch,Debit,Fresno,1
+14348.65,33.0,ATM,Debit,Fresno,1
+5625.55,67.0,Online,Debit,San Diego,0
+3438.02,41.0,ATM,Debit,Milwaukee,1
+10668.24,29.0,ATM,Debit,Atlanta,2
+2018.9,49.0,ATM,Debit,Tucson,0
+9500.95,59.0,ATM,Debit,New York,0
+2472.99,55.0,ATM,Debit,Kansas City,1
+6522.47,38.0,Branch,Debit,Los Angeles,1
+1223.4499999999998,20.0,Online,Debit,New York,0
+778.7399999999998,39.0,ATM,Debit,San Antonio,0
+2246.15,61.0,ATM,Debit,Denver,2
+219.52999999999975,25.0,Online,Credit,Jacksonville,1
+12896.06,38.0,Branch,Debit,Seattle,0
+8697.11,30.0,Branch,Credit,Columbus,2
+6414.11,66.0,Online,Debit,Columbus,2
+5767.51,64.0,Online,Debit,Chicago,2
+2815.86,68.0,ATM,Debit,Dallas,2
+2991.17,55.0,Online,Debit,Fort Worth,1
+224.64999999999964,48.0,Branch,Debit,Philadelphia,0
+1236.7600000000002,20.0,Branch,Credit,Colorado Springs,2
+13586.99,60.0,ATM,Debit,Phoenix,0
+7117.35,26.0,ATM,Debit,Colorado Springs,2
+7235.87,61.0,Branch,Credit,Albuquerque,2
+7318.64,72.0,Branch,Debit,Memphis,1
+9847.6,43.0,ATM,Debit,Colorado Springs,2
+2968.75,80.0,Online,Credit,Washington,0
+9323.71,31.0,Online,Credit,Boston,2
+1764.08,18.0,Online,Credit,Miami,1
+5683.49,75.0,ATM,Debit,New York,0
+5225.73,33.0,Online,Debit,San Francisco,0
+6445.4,63.0,ATM,Debit,Sacramento,0
+289.71000000000004,24.0,Online,Debit,Seattle,0
+9200.74,51.0,Online,Credit,Sacramento,0
+300.8699999999999,25.0,Online,Debit,Memphis,1
+743.8999999999996,48.0,ATM,Credit,Raleigh,0
+1200.35,21.0,ATM,Debit,Philadelphia,0
+1562.3900000000003,56.0,ATM,Debit,San Jose,0
+7719.71,49.0,Branch,Credit,Raleigh,0
+2610.67,54.0,Online,Debit,Albuquerque,2
+2060.02,66.0,Online,Debit,Oklahoma City,0
+1833.67,20.0,Online,Debit,Oklahoma City,0
+5396.65,71.0,ATM,Debit,Mesa,1
+12995.7,57.0,ATM,Debit,Mesa,1
+7616.43,40.0,ATM,Debit,Tucson,0
+12500.8,35.0,ATM,Credit,Philadelphia,0
+1127.0800000000004,19.0,ATM,Debit,San Francisco,0
+3621.98,76.0,Branch,Credit,Sacramento,0
+5212.28,49.0,Online,Debit,Denver,2
+2727.45,58.0,Branch,Credit,San Francisco,0
+5117.03,49.0,Branch,Debit,Oklahoma City,0
+6089.79,26.0,Branch,Debit,Tucson,0
+2618.1,58.0,Branch,Debit,Milwaukee,1
+11988.12,31.0,ATM,Debit,Memphis,1
+3841.42,55.0,ATM,Debit,Portland,0
+321.21000000000004,28.0,Branch,Credit,Los Angeles,1
+9754.73,37.0,Online,Debit,Tucson,0
+9584.52,57.0,Branch,Debit,Columbus,2
+7624.56,31.0,ATM,Debit,Portland,0
+2485.73,47.0,Online,Debit,New York,0
+2137.9,36.0,Online,Debit,Louisville,1
+6412.85,30.0,Branch,Debit,Atlanta,2
+707.25,23.0,Branch,Credit,Oklahoma City,0
+8300.54,48.0,Online,Debit,Fresno,1
+7717.34,45.0,ATM,Debit,Memphis,1
+6967.03,39.0,Online,Credit,San Diego,0
+5158.6,54.0,Branch,Debit,Louisville,1
+12031.14,67.0,Online,Debit,San Jose,0
+7093.68,73.0,Branch,Debit,Oklahoma City,0
+8539.86,29.0,Branch,Debit,Washington,0
+7640.57,59.0,Branch,Debit,Chicago,2
+1292.21,24.0,ATM,Debit,Omaha,0
+5958.75,63.0,Branch,Debit,Las Vegas,1
+708.7399999999998,25.0,Online,Debit,Los Angeles,1
+1744.4,28.0,Branch,Credit,Austin,2
+273.77999999999975,25.0,ATM,Debit,Denver,2
+130.76000000000022,25.0,Branch,Debit,Tucson,0
+10389.6,49.0,Branch,Debit,Seattle,0
+1048.1800000000003,63.0,Online,Debit,San Diego,0
+12896.68,32.0,Online,Credit,San Francisco,0
+8208.54,43.0,Branch,Debit,Los Angeles,1
+5244.49,38.0,Online,Debit,Tucson,0
+11935.14,37.0,Online,Debit,Seattle,0
+1484.7600000000002,24.0,ATM,Debit,Philadelphia,0
+6513.34,23.0,Online,Credit,Tucson,0
+13801.15,35.0,ATM,Debit,Fort Worth,1
+12958.65,68.0,Online,Debit,Las Vegas,1
+9588.71,32.0,Online,Debit,Austin,2
+3475.99,49.0,Online,Debit,Milwaukee,1
+7544.4,29.0,Branch,Debit,Tucson,0
+1193.6099999999992,19.0,ATM,Debit,Oklahoma City,0
+12063.77,33.0,Online,Debit,Indianapolis,1
+892.8299999999999,27.0,ATM,Debit,Detroit,2
+1230.12,54.0,Online,Debit,New York,0
+1479.67,18.0,Branch,Debit,San Jose,0
+1265.2799999999997,54.0,ATM,Credit,San Antonio,0
+3228.87,76.0,Branch,Debit,Seattle,0
+1111.67,19.0,Online,Debit,Seattle,0
+3213.16,56.0,Online,Debit,Boston,2
+12719.93,63.0,Online,Credit,New York,0
+2040.77,63.0,ATM,Credit,Miami,1
+1309.85,20.0,Branch,Debit,San Francisco,0
+164.60999999999967,25.0,Online,Credit,Austin,2
+4230.37,49.0,Branch,Credit,Memphis,1
+761.0,27.0,ATM,Debit,Dallas,2
+2923.83,67.0,Online,Debit,Houston,1
+7372.47,61.0,Online,Debit,Baltimore,2
+871.1000000000004,39.0,ATM,Debit,Seattle,0
+3023.16,45.0,Branch,Debit,Oklahoma City,0
+1119.21,19.0,Online,Debit,Albuquerque,2
+11833.73,60.0,Branch,Debit,Detroit,2
+6400.59,68.0,Online,Debit,Dallas,2
+13884.24,63.0,Online,Debit,Memphis,1
+620.8299999999999,19.0,ATM,Debit,Austin,2
+1938.0100000000002,19.0,ATM,Debit,Denver,2
+964.79,19.0,Branch,Debit,Tucson,0
+1870.1599999999999,56.0,Online,Debit,New York,0
+5577.94,34.0,Online,Debit,Austin,2
+8700.8,36.0,ATM,Debit,El Paso,2
+2794.66,60.0,Online,Debit,Omaha,0
+6169.71,45.0,Online,Debit,Colorado Springs,2
+831.75,25.0,ATM,Debit,Fresno,1
+2451.56,53.0,Branch,Debit,Charlotte,2
+13625.52,34.0,Online,Credit,Mesa,1
+1379.3900000000003,20.0,Branch,Debit,Los Angeles,1
+11498.01,62.0,Online,Credit,Columbus,2
+865.4899999999998,25.0,Branch,Debit,Washington,0
+7147.4,76.0,Online,Credit,Seattle,0
+7833.85,35.0,Online,Credit,Houston,1
+4840.67,80.0,Branch,Debit,Los Angeles,1
+7361.47,70.0,Branch,Debit,Memphis,1
+5128.44,45.0,Branch,Debit,Philadelphia,0
+12381.45,62.0,ATM,Debit,El Paso,2
+4008.05,29.0,ATM,Debit,Baltimore,2
+3493.13,43.0,Online,Debit,Milwaukee,1
+6462.41,77.0,ATM,Debit,Dallas,2
+4625.12,42.0,ATM,Debit,Fort Worth,1
+6470.57,48.0,ATM,Credit,Las Vegas,1
+4854.83,48.0,Online,Debit,Indianapolis,1
+12652.22,48.0,ATM,Debit,Raleigh,0
+11705.88,68.0,Branch,Debit,San Diego,0
+932.6099999999997,35.0,ATM,Debit,El Paso,2
+11613.58,61.0,Branch,Debit,Louisville,1
+1068.5500000000002,25.0,ATM,Debit,Sacramento,0
+1616.3000000000002,28.0,Online,Debit,Virginia Beach,0
+471.27999999999975,23.0,Branch,Debit,San Jose,0
+106.85999999999967,21.0,Branch,Credit,San Jose,0
+2457.1,72.0,Online,Debit,Miami,1
+5882.12,69.0,Branch,Debit,Boston,2
+1938.9899999999998,55.0,Online,Credit,Louisville,1
+4079.09,57.0,Online,Debit,Omaha,0
+860.1199999999999,28.0,Branch,Credit,Houston,1
+7811.31,68.0,Online,Debit,Boston,2
+1181.8400000000006,24.0,Branch,Debit,San Francisco,0
+10915.54,58.0,ATM,Debit,San Francisco,0
+1670.7200000000003,19.0,ATM,Debit,San Jose,0
+1121.1899999999996,20.0,Online,Debit,Boston,2
+5621.86,53.0,Online,Credit,Fort Worth,1
+8873.43,56.0,ATM,Debit,Detroit,2
+6990.92,41.0,Branch,Debit,Tucson,0
+7831.56,60.0,ATM,Debit,Jacksonville,1
+6173.23,51.0,Branch,Debit,Phoenix,0
+9523.72,56.0,ATM,Debit,Dallas,2
+6420.47,33.0,Branch,Debit,El Paso,2
+1146.0900000000001,23.0,ATM,Debit,Fort Worth,1
+6430.41,35.0,ATM,Debit,Colorado Springs,2
+1635.0500000000002,28.0,Branch,Debit,San Antonio,0
+6697.79,66.0,Online,Debit,Houston,1
+7369.89,58.0,Branch,Debit,Seattle,0
+6903.68,40.0,ATM,Debit,Sacramento,0
+11748.86,65.0,Online,Debit,Sacramento,0
+7303.23,42.0,Online,Debit,San Antonio,0
+10619.35,29.0,Branch,Debit,Los Angeles,1
+1794.5,54.0,Online,Credit,Raleigh,0
+12970.21,59.0,Branch,Credit,Houston,1
+120.89000000000033,56.0,Branch,Debit,Louisville,1
+5692.31,67.0,ATM,Debit,Indianapolis,1
+9879.87,50.0,Branch,Debit,Portland,0
+6266.65,64.0,ATM,Credit,Baltimore,2
+14268.95,31.0,Online,Debit,Indianapolis,1
+6449.83,52.0,ATM,Credit,Austin,2
+6741.41,60.0,ATM,Debit,Omaha,0
+1008.4400000000005,25.0,ATM,Debit,Seattle,0
+1711.7799999999997,23.0,Branch,Debit,Raleigh,0
+1821.0,26.0,ATM,Debit,San Francisco,0
+5107.75,77.0,Online,Debit,Fresno,1
+5229.95,33.0,Branch,Debit,Washington,0
+339.15999999999985,20.0,Online,Debit,Boston,2
+10442.48,32.0,Online,Credit,New York,0
+4324.4,63.0,Online,Debit,Columbus,2
+6292.29,55.0,Branch,Debit,El Paso,2
+269.0100000000002,21.0,Branch,Credit,Miami,1
+5379.25,78.0,ATM,Credit,Jacksonville,1
+1334.0900000000001,64.0,Branch,Debit,Kansas City,1
+6366.84,53.0,Branch,Credit,Charlotte,2
+1839.1,22.0,ATM,Debit,Nashville,1
+3966.54,53.0,ATM,Debit,Baltimore,2
+9983.36,33.0,Branch,Debit,Houston,1
+4577.09,66.0,Branch,Debit,Phoenix,0
+7458.03,65.0,Online,Credit,Albuquerque,2
+6397.29,32.0,Branch,Debit,Detroit,2
+6345.03,49.0,Online,Debit,Miami,1
+6034.73,30.0,ATM,Debit,Indianapolis,1
+765.8099999999995,53.0,ATM,Debit,Raleigh,0
+9826.26,55.0,ATM,Debit,Philadelphia,0
+3736.38,45.0,ATM,Debit,Columbus,2
+646.8500000000004,27.0,Branch,Debit,Miami,1
+6385.12,72.0,ATM,Debit,Boston,2
+4161.71,57.0,Branch,Credit,San Diego,0
+11079.77,51.0,Online,Credit,Fort Worth,1
+10017.11,69.0,Online,Debit,Miami,1
+1644.0900000000001,26.0,Online,Credit,Seattle,0
+387.64999999999964,28.0,ATM,Debit,El Paso,2
+528.3800000000001,18.0,Online,Debit,Boston,2
+7530.3,55.0,ATM,Debit,Louisville,1
+10887.59,62.0,Online,Debit,Jacksonville,1
+7104.61,59.0,ATM,Debit,San Francisco,0
+7307.11,61.0,Branch,Credit,Fort Worth,1
+349.97999999999956,20.0,Branch,Debit,Baltimore,2
+2284.41,60.0,Branch,Debit,San Francisco,0
+1918.3599999999997,22.0,Branch,Debit,San Antonio,0
+503.0100000000002,22.0,Online,Debit,Washington,0
+1216.9099999999999,37.0,Branch,Debit,Memphis,1
+1071.04,18.0,ATM,Debit,Fresno,1
+187.89999999999964,21.0,ATM,Debit,El Paso,2
+7145.67,72.0,ATM,Debit,Chicago,2
+1493.88,28.0,Online,Debit,Phoenix,0
+8658.95,41.0,Branch,Credit,Louisville,1
+164.1199999999999,28.0,Branch,Debit,Baltimore,2
+7089.9,53.0,ATM,Debit,Albuquerque,2
+841.6499999999996,21.0,Online,Credit,Nashville,1
+5677.05,71.0,Branch,Credit,Columbus,2
+1658.4899999999998,26.0,Online,Credit,Jacksonville,1
+10171.68,63.0,Branch,Debit,Seattle,0
+13847.99,64.0,Branch,Debit,Fresno,1
+3688.98,51.0,ATM,Debit,San Jose,0
+5619.95,52.0,Branch,Debit,Detroit,2
+342.0799999999999,20.0,Branch,Credit,Memphis,1
+4702.86,53.0,Online,Debit,Raleigh,0
+12703.24,59.0,Online,Debit,Boston,2
+6659.81,73.0,Online,Credit,Memphis,1
+7860.65,42.0,Online,Credit,Baltimore,2
+1275.1999999999998,55.0,ATM,Debit,San Antonio,0
+1265.27,26.0,Branch,Debit,Nashville,1
+12841.01,37.0,Online,Credit,San Diego,0
+1241.5900000000001,22.0,ATM,Debit,Boston,2
+874.9300000000003,25.0,Online,Debit,Kansas City,1
+5716.72,48.0,Online,Credit,Washington,0
+1541.48,62.0,ATM,Debit,Kansas City,1
+14817.22,49.0,ATM,Debit,Raleigh,0
+2587.11,32.0,Branch,Credit,Charlotte,2
+173.69999999999982,55.0,Branch,Debit,Sacramento,0
+11847.07,49.0,ATM,Debit,San Diego,0
+11146.74,33.0,Online,Debit,Dallas,2
+369.78999999999996,49.0,ATM,Debit,Las Vegas,1
+6396.08,75.0,Online,Credit,Houston,1
+4840.31,52.0,Online,Debit,Philadelphia,0
+1334.6,29.0,Branch,Debit,Detroit,2
+2774.35,32.0,Online,Credit,Chicago,2
+1368.0,27.0,ATM,Debit,Denver,2
+4536.38,67.0,Online,Debit,Phoenix,0
+1293.3900000000003,21.0,Branch,Debit,Nashville,1
+441.53999999999996,26.0,ATM,Credit,San Jose,0
+8485.14,34.0,ATM,Debit,Nashville,1
+999.6199999999999,24.0,ATM,Credit,Los Angeles,1
+14273.42,55.0,Branch,Debit,Seattle,0
+1863.6999999999998,22.0,ATM,Debit,Columbus,2
+8640.56,20.0,ATM,Debit,New York,0
+259.4399999999996,57.0,ATM,Debit,Indianapolis,1
+5526.97,31.0,ATM,Debit,Washington,0
+929.6000000000004,23.0,Branch,Credit,New York,0
+5335.44,21.0,ATM,Debit,Atlanta,2
+587.1199999999999,26.0,ATM,Debit,Jacksonville,1
+4760.34,47.0,Branch,Debit,San Francisco,0
+1594.04,26.0,Online,Debit,Portland,0
+13777.79,68.0,Branch,Debit,Indianapolis,1
+1794.65,74.0,Branch,Credit,Omaha,0
+7677.76,66.0,Online,Debit,Atlanta,2
+7071.32,80.0,ATM,Debit,Memphis,1
+7525.73,78.0,Online,Credit,Austin,2
+2989.25,56.0,Branch,Debit,Fort Worth,1
+7620.6,64.0,ATM,Debit,Oklahoma City,0
+5549.2,71.0,Online,Credit,Raleigh,0
+6782.61,31.0,Branch,Debit,Sacramento,0
+1968.5100000000002,28.0,Online,Debit,Columbus,2
+5340.73,56.0,Online,Debit,Milwaukee,1
+3267.84,51.0,Online,Debit,Las Vegas,1
+6941.47,69.0,ATM,Debit,San Antonio,0
+7567.2,67.0,ATM,Debit,Jacksonville,1
+7001.25,31.0,Branch,Debit,Seattle,0
+1983.65,70.0,ATM,Debit,Denver,2
+686.9099999999999,20.0,Branch,Debit,Atlanta,2
+213.35999999999967,28.0,Branch,Credit,Omaha,0
+1443.02,22.0,Online,Debit,Charlotte,2
+8450.84,52.0,Branch,Debit,San Jose,0
+7996.7,61.0,Online,Debit,Houston,1
+5567.98,30.0,ATM,Debit,Charlotte,2
+1262.6800000000003,67.0,Online,Debit,Kansas City,1
+1697.2799999999997,23.0,Branch,Credit,Fresno,1
+2591.65,58.0,Branch,Debit,Jacksonville,1
+12002.16,60.0,Online,Debit,San Francisco,0
+8726.92,57.0,Online,Debit,Portland,0
+5415.64,73.0,Online,Debit,Columbus,2
+3736.57,59.0,Online,Credit,Portland,0
+1225.69,19.0,Branch,Credit,Philadelphia,0
+14829.85,50.0,ATM,Debit,Houston,1
+1277.6999999999998,28.0,Online,Credit,Jacksonville,1
+454.65999999999985,20.0,Branch,Debit,Philadelphia,0
+1519.5100000000002,20.0,ATM,Debit,Raleigh,0
+8045.77,46.0,Online,Debit,Miami,1
+1331.3000000000002,24.0,Online,Debit,Chicago,2
+1843.5699999999997,25.0,Branch,Credit,Atlanta,2
+6601.5,67.0,Branch,Credit,Phoenix,0
+8422.2,56.0,ATM,Debit,Nashville,1
+7987.74,47.0,ATM,Debit,Albuquerque,2
+327.6800000000003,22.0,Online,Debit,Omaha,0
+7372.81,40.0,Branch,Debit,Mesa,1
+2987.97,49.0,ATM,Debit,Los Angeles,1
+1619.54,53.0,ATM,Debit,Albuquerque,2
+1204.65,22.0,ATM,Debit,Milwaukee,1
+4630.58,28.0,Online,Debit,San Francisco,0
+1380.3400000000001,24.0,ATM,Debit,Memphis,1
+14304.38,36.0,ATM,Credit,Dallas,2
+3215.76,49.0,Online,Credit,Indianapolis,1
+1022.94,24.0,Online,Debit,Baltimore,2
+2610.64,69.0,ATM,Debit,Tucson,0
+9451.66,55.0,Online,Debit,Atlanta,2
+1244.17,53.0,ATM,Debit,Sacramento,0
+12815.24,54.0,Branch,Debit,Los Angeles,1
+9933.56,31.0,Online,Credit,San Diego,0
+921.2299999999996,23.0,Branch,Debit,Fresno,1
+6009.43,56.0,Online,Debit,Sacramento,0
+602.3599999999997,45.0,Online,Debit,Milwaukee,1
+1769.33,18.0,ATM,Debit,Milwaukee,1
+2570.34,63.0,Online,Credit,Phoenix,0
+3240.14,69.0,ATM,Debit,Miami,1
+1229.3199999999997,73.0,Online,Debit,San Antonio,0
+8019.89,65.0,ATM,Debit,Albuquerque,2
+14328.29,53.0,ATM,Debit,Kansas City,1
+330.15999999999985,27.0,Online,Debit,Kansas City,1
+1595.2600000000002,19.0,ATM,Debit,Miami,1
+7413.18,75.0,Online,Debit,New York,0
+2563.91,61.0,ATM,Credit,Virginia Beach,0
+10724.95,33.0,ATM,Debit,Baltimore,2
+2969.71,34.0,ATM,Debit,Colorado Springs,2
+761.7799999999997,28.0,Branch,Debit,Dallas,2
+6229.36,54.0,ATM,Credit,Philadelphia,0
+2552.54,63.0,ATM,Debit,Miami,1
+1033.73,22.0,ATM,Debit,Jacksonville,1
+1919.9700000000003,25.0,Online,Debit,Charlotte,2
+1893.44,79.0,Branch,Debit,Atlanta,2
+1783.04,25.0,ATM,Debit,Oklahoma City,0
+852.9799999999996,29.0,Online,Debit,Philadelphia,0
+1123.8899999999999,21.0,Branch,Debit,Detroit,2
+1817.65,22.0,Branch,Debit,Seattle,0
+5463.94,63.0,ATM,Debit,Tucson,0
+477.02999999999975,20.0,Branch,Debit,Chicago,2
+8874.01,59.0,Branch,Debit,Fresno,1
+5365.2,63.0,Branch,Credit,Kansas City,1
+7858.41,26.0,Branch,Debit,El Paso,2
+7216.3,76.0,ATM,Debit,Las Vegas,1
+13558.56,62.0,ATM,Credit,Oklahoma City,0
+7872.04,49.0,ATM,Debit,Chicago,2
+5200.04,72.0,ATM,Debit,Denver,2
+1779.85,18.0,Online,Credit,Raleigh,0
+13264.14,58.0,ATM,Debit,Memphis,1
+467.39999999999964,19.0,Online,Debit,Miami,1
+9873.62,29.0,ATM,Debit,New York,0
+1257.9,22.0,Branch,Debit,San Jose,0
+6067.54,77.0,Branch,Credit,Philadelphia,0
+5169.07,79.0,Online,Credit,Indianapolis,1
+6878.86,77.0,Branch,Debit,Detroit,2
+558.9899999999998,23.0,Branch,Debit,Dallas,2
+1400.04,27.0,Branch,Credit,El Paso,2
+912.71,27.0,Online,Debit,Sacramento,0
+6338.35,36.0,Online,Debit,San Diego,0
+13645.63,40.0,Online,Credit,Columbus,2
+4909.24,76.0,Branch,Debit,New York,0
+570.1000000000004,25.0,Online,Credit,Kansas City,1
+11749.77,45.0,Online,Credit,San Diego,0
+6118.2,52.0,ATM,Debit,Nashville,1
+4383.69,60.0,ATM,Debit,Denver,2
+4004.55,41.0,Branch,Credit,Seattle,0
+373.8800000000001,25.0,ATM,Debit,Seattle,0
+6851.16,68.0,Online,Debit,Columbus,2
+9700.77,30.0,ATM,Debit,San Antonio,0
+6853.51,55.0,Branch,Debit,Omaha,0
+948.6999999999998,28.0,Branch,Debit,Dallas,2
+12221.17,46.0,ATM,Debit,Denver,2
+6500.5,32.0,Branch,Credit,Raleigh,0
+9927.75,45.0,Branch,Credit,Washington,0
+2138.42,67.0,Branch,Debit,San Jose,0
+3908.65,57.0,Branch,Debit,Dallas,2
+11041.9,42.0,ATM,Debit,Colorado Springs,2
+379.8199999999997,24.0,ATM,Credit,Charlotte,2
+3921.74,51.0,ATM,Debit,Indianapolis,1
+7659.99,75.0,Branch,Debit,Raleigh,0
+664.7200000000003,21.0,Branch,Debit,Washington,0
+1167.2500000000005,21.0,Branch,Credit,Washington,0
+5896.01,59.0,Online,Credit,Nashville,1
+1123.7500000000005,63.0,Online,Debit,Memphis,1
+2039.4,62.0,Online,Debit,Charlotte,2
+1864.27,25.0,Branch,Credit,Omaha,0
+2325.78,72.0,Online,Debit,Phoenix,0
+5926.31,38.0,Online,Debit,Seattle,0
+399.5699999999997,25.0,Branch,Debit,San Antonio,0
+1916.3400000000001,78.0,Branch,Credit,Austin,2
+2732.86,68.0,Online,Debit,Tucson,0
+1115.3000000000002,22.0,ATM,Debit,Philadelphia,0
+7334.08,30.0,Branch,Debit,Mesa,1
+1024.19,19.0,Online,Credit,Indianapolis,1
+10971.32,57.0,ATM,Debit,Atlanta,2
+14631.88,45.0,Online,Debit,Louisville,1
+14928.35,41.0,ATM,Debit,Virginia Beach,0
+830.3699999999999,22.0,Branch,Credit,Boston,2
+6408.8,23.0,Branch,Debit,Omaha,0
+1997.33,25.0,Online,Credit,Milwaukee,1
+13084.27,44.0,Branch,Debit,San Francisco,0
+5684.09,47.0,Branch,Debit,Chicago,2
+2760.37,75.0,ATM,Debit,Portland,0
+868.9099999999999,19.0,ATM,Debit,Indianapolis,1
+5838.91,61.0,Branch,Debit,Tucson,0
+8937.35,67.0,Branch,Debit,New York,0
+8528.72,40.0,ATM,Debit,Milwaukee,1
+425.77000000000044,45.0,Branch,Debit,Houston,1
+8459.26,64.0,ATM,Debit,Baltimore,2
+2649.23,75.0,ATM,Debit,Milwaukee,1
+6659.12,54.0,Branch,Debit,Raleigh,0
+11937.04,66.0,ATM,Debit,Fort Worth,1
+6794.17,39.0,Branch,Credit,Memphis,1
+2064.76,60.0,Online,Debit,Nashville,1
+3139.75,65.0,ATM,Debit,Baltimore,2
+202.6899999999996,21.0,ATM,Debit,Los Angeles,1
+4474.2,58.0,Online,Debit,Chicago,2
+11471.87,64.0,Branch,Credit,Houston,1
+1107.2799999999997,25.0,Branch,Credit,Baltimore,2
+5526.28,29.0,Branch,Debit,Denver,2
+9679.68,32.0,ATM,Debit,Baltimore,2
+1033.9400000000005,77.0,Online,Debit,Chicago,2
+1833.2399999999998,22.0,Branch,Debit,Virginia Beach,0
+983.6800000000003,20.0,ATM,Debit,Mesa,1
+269.77999999999975,20.0,ATM,Credit,Sacramento,0
+9801.48,37.0,Branch,Debit,Indianapolis,1
+888.6000000000004,19.0,Online,Debit,Chicago,2
+290.2399999999998,18.0,Online,Credit,New York,0
+958.6999999999998,25.0,ATM,Debit,Omaha,0
+1605.67,19.0,Online,Debit,San Diego,0
+8590.5,60.0,ATM,Debit,Sacramento,0
+5461.08,49.0,Online,Debit,El Paso,2
+1804.5,25.0,ATM,Debit,Virginia Beach,0
+7975.18,49.0,ATM,Debit,San Antonio,0
+222.22000000000025,40.0,ATM,Debit,Columbus,2
+6857.2,37.0,Online,Debit,Memphis,1
+2028.92,46.0,Online,Debit,Las Vegas,1
+248.52000000000044,34.0,Online,Debit,Houston,1
+3019.04,59.0,ATM,Debit,Sacramento,0
+1523.5699999999997,18.0,ATM,Debit,Baltimore,2
+5571.39,80.0,Online,Debit,San Francisco,0
+1514.3400000000001,55.0,ATM,Debit,Charlotte,2
+1817.4300000000003,61.0,Online,Debit,Sacramento,0
+6269.12,22.0,ATM,Credit,San Diego,0
+2281.9,61.0,Branch,Debit,Jacksonville,1
+2006.69,48.0,ATM,Credit,Sacramento,0
+2189.38,58.0,Branch,Debit,Phoenix,0
+11036.74,61.0,ATM,Debit,Dallas,2
+447.0600000000004,27.0,ATM,Debit,Indianapolis,1
+2104.74,53.0,ATM,Debit,Milwaukee,1
+5183.5,51.0,ATM,Debit,Indianapolis,1
+643.6400000000003,47.0,Online,Credit,Omaha,0
+11011.86,46.0,ATM,Debit,Los Angeles,1
+951.3299999999999,46.0,ATM,Credit,Memphis,1
+2561.67,57.0,ATM,Debit,Tucson,0
+1549.27,21.0,Online,Debit,Virginia Beach,0
+3253.51,26.0,Online,Debit,Seattle,0
+1338.9499999999998,45.0,ATM,Debit,Memphis,1
+3910.59,65.0,ATM,Debit,Los Angeles,1
+206.19999999999982,22.0,Branch,Credit,Colorado Springs,2
+4361.44,18.0,Online,Debit,Fresno,1
+572.9700000000003,21.0,Branch,Debit,Kansas City,1
+4580.59,70.0,Branch,Debit,Baltimore,2
+2990.05,51.0,Branch,Debit,Charlotte,2
+5208.98,63.0,Branch,Debit,Colorado Springs,2
+1025.9899999999998,67.0,Online,Debit,Denver,2
+13534.3,30.0,ATM,Debit,San Diego,0
+1461.17,39.0,Online,Debit,Milwaukee,1
+6333.72,32.0,Branch,Debit,Las Vegas,1
+8551.6,48.0,Online,Credit,Kansas City,1
+4273.99,78.0,ATM,Debit,Omaha,0
+13054.54,61.0,Branch,Debit,Sacramento,0
+4102.23,74.0,Branch,Credit,Boston,2
+10462.77,42.0,ATM,Debit,Boston,2
+6851.31,74.0,ATM,Debit,Dallas,2
+2421.94,78.0,Online,Debit,Milwaukee,1
+4639.04,74.0,Online,Credit,Raleigh,0
+443.6199999999999,23.0,Branch,Debit,Austin,2
+6312.79,48.0,Branch,Debit,El Paso,2
+1436.3199999999997,26.0,Branch,Credit,Albuquerque,2
+3279.12,61.0,ATM,Debit,Tucson,0
+6020.29,69.0,Online,Debit,Las Vegas,1
+5925.98,59.0,Online,Debit,Detroit,2
+1674.94,62.0,ATM,Debit,Indianapolis,1
+3733.52,48.0,Online,Debit,Mesa,1
+2996.51,54.0,ATM,Debit,Los Angeles,1
+11666.18,40.0,Online,Debit,Mesa,1
+7006.46,68.0,Online,Debit,Seattle,0
+2735.84,37.0,ATM,Debit,Los Angeles,1
+1073.5099999999998,25.0,ATM,Debit,Portland,0
+6996.35,71.0,Branch,Debit,Dallas,2
+4943.49,34.0,Branch,Debit,Albuquerque,2
+1665.58,24.0,Online,Debit,Baltimore,2
+998.4899999999998,20.0,ATM,Debit,Tucson,0
+8422.06,39.0,Online,Debit,San Diego,0
+1285.42,21.0,Branch,Debit,Tucson,0
+8469.43,34.0,Online,Debit,Tucson,0
+692.6900000000005,22.0,ATM,Debit,Kansas City,1
+12319.26,53.0,Branch,Debit,Columbus,2
+9240.73,51.0,Branch,Debit,Omaha,0
+2854.66,36.0,Online,Debit,Milwaukee,1
+2631.47,58.0,Branch,Debit,Detroit,2
+7465.95,24.0,Branch,Credit,Memphis,1
+1670.9899999999998,21.0,Branch,Debit,Sacramento,0
+13913.92,43.0,Branch,Debit,Indianapolis,1
+7471.63,69.0,Branch,Debit,Kansas City,1
+11123.65,36.0,Branch,Debit,Boston,2
+7976.6,50.0,ATM,Debit,Fort Worth,1
+8046.94,66.0,Online,Credit,Sacramento,0
+14935.5,54.0,ATM,Credit,Atlanta,2
+13486.15,69.0,ATM,Debit,Columbus,2
+526.6700000000001,21.0,ATM,Debit,Mesa,1
+4954.37,60.0,ATM,Debit,Columbus,2
+8942.58,68.0,Branch,Debit,Austin,2
+4044.62,79.0,ATM,Debit,Louisville,1
+4148.85,65.0,Online,Debit,Colorado Springs,2
+11388.15,51.0,Branch,Debit,San Diego,0
+5347.57,52.0,Branch,Debit,Denver,2
+1329.4499999999998,46.0,ATM,Debit,Miami,1
+2475.65,50.0,Branch,Debit,Virginia Beach,0
+1019.46,43.0,Branch,Debit,Mesa,1
+14321.73,40.0,ATM,Debit,Memphis,1
+2833.12,56.0,ATM,Debit,Houston,1
+12148.32,61.0,Online,Credit,Dallas,2
+14371.08,41.0,Online,Debit,Las Vegas,1
+7947.44,46.0,ATM,Debit,San Francisco,0
+6037.03,48.0,Branch,Debit,Boston,2
+387.02000000000044,22.0,ATM,Credit,Omaha,0
+1081.9700000000003,19.0,Online,Debit,Los Angeles,1
+729.6999999999998,18.0,ATM,Debit,Oklahoma City,0
+2782.21,34.0,ATM,Debit,Colorado Springs,2
+5245.93,50.0,Online,Credit,Houston,1
+1290.9499999999998,25.0,ATM,Debit,Houston,1
+6494.25,32.0,ATM,Debit,Baltimore,2
+4004.35,70.0,ATM,Debit,Oklahoma City,0
+2525.47,68.0,ATM,Debit,Portland,0
+11014.25,46.0,ATM,Debit,Kansas City,1
+6275.0,50.0,ATM,Debit,Atlanta,2
+1733.3400000000001,53.0,ATM,Credit,Portland,0
+5294.98,68.0,ATM,Debit,Memphis,1
+5018.67,34.0,Online,Debit,Detroit,2
+9844.32,60.0,ATM,Debit,Austin,2
+712.1300000000001,26.0,Branch,Debit,Las Vegas,1
+6217.58,33.0,Branch,Debit,Tucson,0
+2229.56,57.0,Online,Credit,Portland,0
+9313.05,36.0,Branch,Debit,Charlotte,2
+4618.53,52.0,Online,Debit,Charlotte,2
+6747.16,55.0,Branch,Debit,Colorado Springs,2
+5134.37,78.0,Branch,Debit,Chicago,2
+2207.54,52.0,ATM,Debit,Austin,2
+13336.15,67.0,Online,Debit,Los Angeles,1
+1801.69,63.0,ATM,Debit,San Jose,0
+522.3900000000003,54.0,Online,Debit,San Diego,0
+9381.64,54.0,Online,Credit,Portland,0
+2963.29,62.0,ATM,Debit,Fort Worth,1
+11523.64,57.0,Branch,Debit,Chicago,2
+12723.62,40.0,ATM,Debit,Fort Worth,1
+3920.11,69.0,Online,Credit,Virginia Beach,0
+7451.83,44.0,Branch,Debit,Denver,2
+7061.58,62.0,Branch,Debit,Austin,2
+985.7700000000004,28.0,Online,Debit,Miami,1
+4298.34,59.0,Branch,Credit,Miami,1
+12799.34,56.0,ATM,Debit,Fort Worth,1
+811.2399999999998,21.0,Online,Credit,Atlanta,2
+13273.08,53.0,Branch,Credit,Atlanta,2
+842.9400000000005,21.0,Online,Debit,Atlanta,2
+2471.53,49.0,Branch,Credit,Kansas City,1
+1237.5,19.0,ATM,Debit,Washington,0
+783.8299999999999,25.0,Online,Debit,Atlanta,2
+3931.03,49.0,Online,Credit,San Diego,0
+960.96,24.0,Branch,Debit,Indianapolis,1
+7310.88,78.0,ATM,Debit,Houston,1
+1385.7399999999998,73.0,Online,Credit,Philadelphia,0
+7902.52,58.0,ATM,Debit,Fort Worth,1
+4405.28,71.0,Online,Debit,Houston,1
+3944.12,48.0,ATM,Debit,Indianapolis,1
+1523.04,20.0,ATM,Debit,Nashville,1
+8042.3,67.0,Branch,Debit,Raleigh,0
+5531.93,33.0,Online,Debit,Houston,1
+560.7299999999996,21.0,Branch,Debit,Colorado Springs,2
+1658.52,70.0,Online,Debit,Detroit,2
+731.5200000000004,27.0,Online,Debit,Los Angeles,1
+1389.8900000000003,29.0,ATM,Debit,San Francisco,0
+5081.26,48.0,ATM,Debit,Fresno,1
+1000.3500000000004,27.0,ATM,Debit,Omaha,0
+1639.9,21.0,Online,Debit,Chicago,2
+5473.82,67.0,Online,Debit,Memphis,1
+1729.2600000000002,64.0,Branch,Debit,New York,0
+14798.1,51.0,Online,Credit,Las Vegas,1
+7374.26,55.0,ATM,Debit,Chicago,2
+1231.98,19.0,Online,Debit,Jacksonville,1
+6611.26,26.0,Branch,Debit,Las Vegas,1
+883.7200000000003,60.0,ATM,Debit,Jacksonville,1
+5055.99,79.0,Online,Debit,Jacksonville,1
+7166.88,52.0,ATM,Debit,Las Vegas,1
+232.5600000000004,21.0,Online,Debit,Dallas,2
+1236.38,25.0,Online,Debit,Portland,0
+802.0900000000001,21.0,Online,Debit,Seattle,0
+1423.1999999999998,58.0,Branch,Debit,Nashville,1
+13388.56,51.0,ATM,Debit,Portland,0
+2801.28,27.0,Branch,Credit,San Jose,0
+5545.96,52.0,ATM,Debit,Charlotte,2
+4764.48,27.0,Online,Credit,Tucson,0
+7868.19,27.0,Online,Debit,San Diego,0
+1128.3800000000006,26.0,ATM,Debit,Charlotte,2
+7627.04,60.0,ATM,Debit,Fort Worth,1
+4026.03,52.0,Online,Debit,Washington,0
+7095.76,77.0,Online,Credit,Austin,2
+1501.9499999999998,20.0,Online,Debit,Portland,0
+3656.93,48.0,Online,Debit,Mesa,1
+3473.24,55.0,Branch,Debit,Raleigh,0
+7061.73,64.0,ATM,Debit,Raleigh,0
+6012.67,25.0,Branch,Debit,Phoenix,0
+13694.68,31.0,Online,Credit,Atlanta,2
+9410.51,48.0,ATM,Debit,Atlanta,2
+6115.63,53.0,Branch,Debit,Albuquerque,2
+5581.21,38.0,Online,Debit,Columbus,2
+6712.94,69.0,Online,Debit,Fort Worth,1
+8400.87,53.0,Branch,Debit,Fresno,1
+4644.19,60.0,ATM,Debit,Washington,0
+1734.2200000000003,27.0,ATM,Debit,Fort Worth,1
+5237.12,69.0,ATM,Debit,San Jose,0
+969.0599999999995,33.0,Online,Debit,Memphis,1
+5950.48,62.0,ATM,Debit,Boston,2
+9962.5,36.0,Branch,Debit,Detroit,2
+9662.88,52.0,Online,Debit,Kansas City,1
+5243.0,66.0,Branch,Credit,Detroit,2
+1702.65,73.0,Branch,Credit,Oklahoma City,0
+800.9300000000003,27.0,ATM,Debit,Fresno,1
+7231.47,60.0,ATM,Debit,San Antonio,0
+1052.31,22.0,ATM,Debit,Charlotte,2
+10721.29,58.0,Online,Debit,Austin,2
+13560.63,32.0,Branch,Credit,Las Vegas,1
+3138.0,70.0,ATM,Debit,New York,0
+9916.24,38.0,ATM,Debit,Mesa,1
+7941.73,75.0,ATM,Debit,Miami,1
+3753.24,49.0,Branch,Debit,Colorado Springs,2
+9733.83,31.0,Online,Debit,Philadelphia,0
+5003.22,59.0,Online,Debit,Washington,0
+4087.44,54.0,Online,Debit,Virginia Beach,0
+4880.31,71.0,Online,Debit,Columbus,2
+1310.38,57.0,Branch,Debit,Los Angeles,1
+2513.51,78.0,ATM,Debit,Boston,2
+4475.22,23.0,ATM,Debit,Las Vegas,1
+6521.05,55.0,Branch,Credit,Chicago,2
+1615.04,56.0,Branch,Debit,Colorado Springs,2
+1490.3400000000001,20.0,Online,Credit,Atlanta,2
+6601.44,80.0,ATM,Debit,El Paso,2
+8611.17,50.0,Online,Credit,Las Vegas,1
+1929.2799999999997,28.0,Branch,Debit,Los Angeles,1
+5315.83,57.0,ATM,Debit,San Jose,0
+548.4499999999998,26.0,ATM,Debit,Philadelphia,0
+1931.6599999999999,25.0,Online,Debit,Los Angeles,1
+1050.63,36.0,Branch,Debit,Boston,2
+9963.39,19.0,Online,Debit,Philadelphia,0
+1950.63,58.0,Branch,Debit,Washington,0
+6295.45,40.0,Online,Credit,Seattle,0
+4113.63,41.0,Online,Credit,Los Angeles,1
+1451.02,21.0,ATM,Debit,Columbus,2
+1597.85,22.0,ATM,Debit,Albuquerque,2
+1256.33,27.0,Online,Debit,Seattle,0
+7320.61,72.0,Online,Debit,Austin,2
+2150.38,57.0,Online,Debit,Omaha,0
+2940.04,72.0,ATM,Debit,Houston,1
+12801.93,49.0,Online,Debit,Atlanta,2
+4272.41,29.0,Online,Debit,Boston,2
+5399.76,74.0,Branch,Credit,Oklahoma City,0
+2467.39,61.0,Branch,Credit,Omaha,0
+7537.4,27.0,ATM,Debit,Raleigh,0
+7498.51,54.0,Online,Debit,New York,0
+10506.41,29.0,ATM,Debit,San Jose,0
+6505.98,73.0,Branch,Credit,Austin,2
+7568.4,55.0,Branch,Debit,Houston,1
+546.46,18.0,ATM,Debit,Denver,2
+1072.2500000000005,23.0,ATM,Debit,San Francisco,0
+7273.55,69.0,ATM,Debit,Indianapolis,1
+11197.54,57.0,ATM,Debit,Los Angeles,1
+782.3500000000004,19.0,ATM,Debit,Washington,0
+4444.95,76.0,Branch,Debit,New York,0
+10658.88,56.0,ATM,Debit,Albuquerque,2
+250.9300000000003,26.0,Branch,Credit,Austin,2
+1729.02,23.0,Branch,Debit,Raleigh,0
+1298.13,27.0,Online,Credit,Virginia Beach,0
+5828.48,27.0,Online,Credit,Nashville,1
+7600.99,74.0,ATM,Debit,Denver,2
+9603.73,56.0,Online,Debit,Portland,0
+4180.4,59.0,Online,Debit,Atlanta,2
+1268.44,23.0,Online,Debit,Philadelphia,0
+9609.67,26.0,ATM,Debit,Colorado Springs,2
+11989.39,38.0,ATM,Credit,Detroit,2
+9538.92,47.0,Branch,Debit,Miami,1
+4826.88,36.0,Online,Debit,Virginia Beach,0
+293.0600000000004,27.0,Online,Debit,Kansas City,1
+1445.5299999999997,25.0,ATM,Debit,Mesa,1
+11204.62,64.0,ATM,Debit,Atlanta,2
+693.3999999999996,20.0,Branch,Credit,San Diego,0
+13523.65,57.0,Online,Debit,Dallas,2
+662.5100000000002,20.0,ATM,Debit,Detroit,2
+342.72999999999956,23.0,Online,Credit,Atlanta,2
+7764.16,47.0,ATM,Credit,Raleigh,0
+9834.0,29.0,ATM,Debit,Tucson,0
+268.77000000000044,44.0,ATM,Debit,Raleigh,0
+5397.68,30.0,ATM,Debit,Indianapolis,1
+7659.5,53.0,ATM,Debit,Miami,1
+1926.08,28.0,Online,Debit,Dallas,2
+6911.62,68.0,Online,Debit,Houston,1
+7527.04,36.0,Online,Debit,Tucson,0
+12071.1,43.0,Online,Credit,Nashville,1
+1425.4700000000003,72.0,Online,Credit,Oklahoma City,0
+1598.63,23.0,ATM,Credit,San Francisco,0
+11726.47,60.0,Branch,Debit,Philadelphia,0
+9189.76,28.0,Online,Debit,Phoenix,0
+4895.87,78.0,Online,Credit,Raleigh,0
+6178.77,21.0,Branch,Debit,Portland,0
+7167.57,67.0,Online,Debit,Boston,2
+4704.91,56.0,Online,Credit,Jacksonville,1
+1267.7200000000003,67.0,Branch,Credit,Columbus,2
+5790.55,59.0,Online,Credit,Fresno,1
+5729.1,60.0,Branch,Debit,Oklahoma City,0
+7379.38,34.0,Branch,Credit,Detroit,2
+1478.4099999999999,25.0,Online,Debit,El Paso,2
+824.71,28.0,Online,Debit,Chicago,2
+1024.4200000000005,27.0,ATM,Debit,Milwaukee,1
+6027.49,29.0,Branch,Credit,Louisville,1
+14453.35,51.0,ATM,Debit,Charlotte,2
+5374.54,42.0,ATM,Debit,Colorado Springs,2
+9148.08,59.0,Branch,Credit,Sacramento,0
+2757.23,59.0,ATM,Debit,Milwaukee,1
+2523.83,41.0,ATM,Debit,New York,0
+1498.79,67.0,Branch,Debit,Austin,2
+1305.56,29.0,Online,Debit,Boston,2
+1910.9,25.0,ATM,Debit,Fort Worth,1
+423.6400000000003,25.0,Online,Debit,Indianapolis,1
+7606.63,64.0,Branch,Debit,New York,0
+842.5599999999995,31.0,Branch,Debit,Dallas,2
+709.4200000000001,28.0,ATM,Debit,Portland,0
+1358.37,27.0,ATM,Debit,Charlotte,2
+13538.14,61.0,Online,Debit,Austin,2
+7258.33,75.0,Branch,Credit,Austin,2
+4980.26,69.0,ATM,Debit,San Antonio,0
+1623.5,55.0,Branch,Credit,Miami,1
+4401.78,26.0,ATM,Debit,Dallas,2
+2051.37,48.0,Online,Debit,Charlotte,2
+13704.92,58.0,Branch,Credit,Tucson,0
+13374.89,64.0,Branch,Debit,Washington,0
+3363.23,22.0,Branch,Debit,Austin,2
+13521.76,60.0,Branch,Debit,Jacksonville,1
+6109.86,57.0,ATM,Debit,Los Angeles,1
+9975.79,37.0,Branch,Debit,Indianapolis,1
+13856.18,41.0,Branch,Debit,Philadelphia,0
+9905.23,33.0,Online,Credit,Oklahoma City,0
+1547.71,28.0,ATM,Debit,Boston,2
+7153.72,79.0,Online,Debit,Charlotte,2
+3101.54,54.0,Branch,Debit,Tucson,0
+1393.1400000000003,56.0,ATM,Debit,Tucson,0
+7142.53,57.0,ATM,Debit,Miami,1
+325.14999999999964,23.0,Branch,Debit,Las Vegas,1
+580.6599999999999,28.0,Online,Debit,Mesa,1
+6149.81,18.0,Branch,Credit,Milwaukee,1
+5698.25,56.0,Branch,Debit,Columbus,2
+9562.41,39.0,Online,Debit,San Antonio,0
+2038.31,53.0,Online,Debit,Las Vegas,1
+187.64999999999964,22.0,Online,Debit,El Paso,2
+8520.08,26.0,Online,Credit,San Antonio,0
+1435.7200000000003,27.0,ATM,Debit,Mesa,1
+825.6900000000005,20.0,ATM,Debit,Jacksonville,1
+5803.89,68.0,ATM,Debit,Baltimore,2
+3134.4699999999993,53.0,Branch,Debit,Philadelphia,0
+5374.69,50.0,Online,Debit,Miami,1
+6852.16,31.0,Online,Credit,Baltimore,2
+1570.2200000000003,23.0,Branch,Debit,Portland,0
+730.6000000000004,18.0,Online,Debit,Tucson,0
+13185.39,47.0,Online,Credit,Seattle,0
+3900.34,24.0,Online,Credit,Colorado Springs,2
+4891.56,63.0,Online,Debit,Baltimore,2
+7682.0,64.0,ATM,Debit,Virginia Beach,0
+6100.98,57.0,Branch,Debit,Austin,2
+1562.9,55.0,Online,Debit,Detroit,2
+13732.81,57.0,Branch,Debit,San Francisco,0
+5790.7,60.0,Branch,Credit,Oklahoma City,0
+1447.35,39.0,Online,Debit,San Francisco,0
+207.10000000000036,64.0,ATM,Debit,Los Angeles,1
+3077.2,57.0,Branch,Debit,Los Angeles,1
+1983.0,25.0,Branch,Debit,Raleigh,0
+3120.1,57.0,ATM,Debit,Milwaukee,1
+3052.47,46.0,Online,Credit,Tucson,0
+8564.46,27.0,Branch,Debit,Fresno,1
+7950.74,59.0,Online,Credit,Fort Worth,1
+1699.81,21.0,Branch,Credit,Mesa,1
+287.46000000000004,23.0,Branch,Credit,Sacramento,0
+1154.4799999999996,23.0,Online,Debit,San Diego,0
+4076.48,23.0,Branch,Debit,El Paso,2
+10628.59,68.0,ATM,Debit,Philadelphia,0
+7801.32,47.0,ATM,Debit,Fresno,1
+634.1599999999999,53.0,Branch,Credit,Albuquerque,2
+922.96,33.0,Online,Debit,Oklahoma City,0
+1671.8599999999997,18.0,Online,Debit,Raleigh,0
+5670.82,75.0,Branch,Debit,Mesa,1
+6020.85,58.0,ATM,Credit,Milwaukee,1
+6180.3,51.0,ATM,Debit,Columbus,2
+3956.69,46.0,Online,Debit,Charlotte,2
+13869.86,62.0,Branch,Credit,Memphis,1
+4159.52,43.0,ATM,Debit,Austin,2
+1084.65,19.0,Online,Debit,Boston,2
+9794.26,32.0,Branch,Debit,San Jose,0
+5123.24,78.0,Branch,Debit,Colorado Springs,2
+1381.2799999999997,39.0,Branch,Debit,Columbus,2
+11619.1,66.0,ATM,Debit,Seattle,0
+9077.62,31.0,ATM,Debit,Philadelphia,0
+1824.19,22.0,Branch,Debit,San Antonio,0
+4159.33,71.0,Online,Credit,Washington,0
+14352.33,50.0,Online,Debit,Chicago,2
+2156.54,64.0,Online,Debit,Memphis,1
+8361.7,51.0,Branch,Debit,Charlotte,2
+5424.6,27.0,Online,Debit,Louisville,1
+11263.89,52.0,Online,Debit,Indianapolis,1
+12467.31,48.0,Online,Credit,Milwaukee,1
+2531.24,26.0,Branch,Debit,San Diego,0
+6242.03,48.0,Branch,Credit,Boston,2
+11565.97,36.0,ATM,Debit,Columbus,2
+13586.06,39.0,Branch,Debit,Memphis,1
+1161.8400000000001,24.0,ATM,Debit,Austin,2
+7447.1,48.0,ATM,Credit,Virginia Beach,0
+1419.31,25.0,Branch,Debit,Mesa,1
+6142.54,58.0,Branch,Debit,Atlanta,2
+416.3699999999999,20.0,Online,Debit,Miami,1
+6313.22,53.0,Branch,Credit,Philadelphia,0
+8092.94,60.0,Online,Debit,Columbus,2
+6229.13,31.0,Branch,Debit,Chicago,2
+4976.18,26.0,Branch,Debit,Houston,1
+8741.51,30.0,Online,Debit,Chicago,2
+7155.04,59.0,ATM,Debit,Austin,2
+7473.73,32.0,ATM,Debit,Virginia Beach,0
+2366.3,29.0,Branch,Credit,Virginia Beach,0
+3051.29,51.0,Branch,Debit,Kansas City,1
+6987.4,44.0,ATM,Debit,Atlanta,2
+7370.41,65.0,ATM,Credit,Fresno,1
+5010.31,68.0,ATM,Debit,San Francisco,0
+6760.22,59.0,Branch,Debit,Albuquerque,2
+9817.05,52.0,ATM,Debit,Tucson,0
+4389.96,52.0,Branch,Credit,San Antonio,0
+6768.14,73.0,Branch,Credit,Kansas City,1
+1504.6400000000003,51.0,ATM,Debit,Omaha,0
+6486.18,63.0,Online,Debit,Nashville,1
+835.5299999999997,25.0,Online,Credit,Boston,2
+8576.65,41.0,Branch,Debit,Milwaukee,1
+1593.0299999999997,22.0,Online,Debit,Houston,1
+3872.55,74.0,ATM,Debit,Boston,2
+9129.68,40.0,ATM,Debit,Denver,2
+2227.49,49.0,Branch,Debit,San Diego,0
+2619.46,57.0,Online,Debit,Philadelphia,0
+213.0,23.0,ATM,Debit,San Antonio,0
+8457.09,21.0,ATM,Debit,Charlotte,2
+6290.62,80.0,ATM,Debit,Baltimore,2
+9522.37,51.0,Branch,Credit,Memphis,1
+11795.12,61.0,ATM,Debit,Tucson,0
+5121.36,52.0,ATM,Debit,Fresno,1
+8356.08,54.0,ATM,Debit,Baltimore,2
+1299.4,25.0,ATM,Credit,Portland,0
+6062.94,57.0,Online,Debit,San Jose,0
+7588.67,67.0,ATM,Debit,Indianapolis,1
+125.85000000000036,24.0,Online,Credit,Memphis,1
+7047.04,24.0,Branch,Credit,Kansas City,1
+7927.27,41.0,ATM,Credit,Columbus,2
+1889.7799999999997,20.0,Online,Debit,Austin,2
+1769.06,26.0,Online,Debit,Charlotte,2
+4575.98,30.0,Online,Debit,Miami,1
+9269.67,27.0,ATM,Debit,Columbus,2
+9749.46,59.0,ATM,Debit,Dallas,2
+123.23999999999978,19.0,Online,Debit,Milwaukee,1
+4718.51,49.0,Online,Debit,Sacramento,0
+1171.9799999999996,20.0,Online,Debit,Portland,0
+7807.73,33.0,Online,Debit,Atlanta,2
+7483.01,64.0,ATM,Debit,Phoenix,0
+8494.53,46.0,Online,Debit,Boston,2
+8994.67,29.0,Online,Debit,Chicago,2
+4576.78,39.0,Branch,Debit,Omaha,0
+5859.79,38.0,Branch,Debit,Houston,1
+2103.41,55.0,Online,Debit,San Francisco,0
+1046.6599999999999,20.0,ATM,Debit,Miami,1
+10536.54,47.0,Online,Credit,Mesa,1
+4860.01,27.0,Branch,Debit,Miami,1
+9575.42,55.0,Online,Debit,Nashville,1
+5453.4,50.0,Branch,Credit,Kansas City,1
+1545.6400000000003,18.0,Online,Credit,San Francisco,0
+7272.01,58.0,ATM,Debit,New York,0
+1612.4,19.0,ATM,Debit,Atlanta,2
+6151.05,72.0,Online,Credit,Washington,0
+852.1999999999998,27.0,Branch,Debit,Washington,0
+9141.79,42.0,ATM,Debit,San Jose,0
+6425.99,43.0,Branch,Credit,El Paso,2
+214.60999999999967,26.0,Online,Debit,Boston,2
+229.02000000000044,19.0,Online,Credit,Las Vegas,1
+1793.0900000000001,57.0,ATM,Debit,Seattle,0
+4437.48,34.0,ATM,Debit,Philadelphia,0
+3641.06,58.0,Branch,Credit,Sacramento,0
+11481.85,32.0,Branch,Credit,Seattle,0
+7567.17,65.0,Branch,Debit,Austin,2
+6708.65,48.0,Branch,Debit,San Jose,0
+5491.55,22.0,Online,Debit,Oklahoma City,0
+9598.43,67.0,ATM,Debit,Omaha,0
+14410.44,63.0,Online,Debit,Seattle,0
+9738.6,53.0,Online,Debit,Atlanta,2
+749.3400000000001,33.0,Online,Debit,Omaha,0
+1185.4300000000003,27.0,ATM,Debit,Louisville,1
+1584.6,26.0,ATM,Credit,Seattle,0
+1789.8000000000002,71.0,Online,Credit,Milwaukee,1
+14494.18,32.0,Online,Debit,Memphis,1
+6368.32,38.0,Branch,Debit,Philadelphia,0
+1137.13,59.0,ATM,Debit,Oklahoma City,0
+5143.8,34.0,Online,Debit,San Francisco,0
+14021.4,49.0,Online,Debit,Tucson,0
+5946.45,28.0,Online,Debit,New York,0
+1400.04,25.0,Online,Credit,Chicago,2
+11305.81,31.0,ATM,Debit,Omaha,0
+193.0600000000004,52.0,Branch,Debit,Tucson,0
+4468.12,42.0,ATM,Debit,San Francisco,0
+1688.9,53.0,ATM,Debit,Miami,1
+7574.45,43.0,ATM,Debit,Indianapolis,1
+2637.55,62.0,Online,Credit,Nashville,1
+3304.02,31.0,Branch,Debit,Las Vegas,1
+445.21000000000004,27.0,ATM,Debit,Memphis,1
+3488.77,79.0,ATM,Debit,Sacramento,0
+7158.58,39.0,ATM,Debit,Boston,2
+1597.5100000000002,23.0,ATM,Debit,Phoenix,0
+4186.25,33.0,Branch,Credit,Atlanta,2
+6237.68,44.0,Online,Debit,Miami,1
+3449.35,43.0,ATM,Debit,Indianapolis,1
+10235.19,29.0,Online,Credit,Austin,2
+8670.23,34.0,Branch,Debit,Kansas City,1
+8198.0,63.0,ATM,Debit,Fort Worth,1
+1149.7400000000002,24.0,Branch,Debit,Mesa,1
+8384.85,69.0,Branch,Debit,Oklahoma City,0
+14466.38,39.0,Online,Debit,Detroit,2
+5695.78,48.0,Branch,Debit,Phoenix,0
+1220.8599999999997,31.0,ATM,Debit,Omaha,0
+6126.5,51.0,Online,Debit,New York,0
+2861.65,29.0,Branch,Debit,Raleigh,0
+411.77999999999975,27.0,Online,Credit,San Jose,0
+4331.54,68.0,Online,Debit,Memphis,1
+13948.09,40.0,ATM,Debit,Jacksonville,1
+333.1899999999996,20.0,Branch,Credit,Los Angeles,1
+1189.0300000000002,27.0,ATM,Debit,Miami,1
+102.19999999999982,25.0,Online,Debit,Seattle,0
+1145.23,25.0,Online,Debit,Charlotte,2
+8704.27,26.0,ATM,Debit,Kansas City,1
+6223.26,61.0,Branch,Debit,Detroit,2
+135.96000000000004,49.0,Branch,Debit,Atlanta,2
+4597.57,51.0,ATM,Debit,San Diego,0
+1061.5799999999995,64.0,Branch,Debit,Detroit,2
+9238.08,36.0,Online,Debit,Fort Worth,1
+9404.63,56.0,Branch,Debit,Jacksonville,1
+13330.74,66.0,Branch,Debit,Houston,1
+341.2399999999998,26.0,Online,Credit,Fresno,1
+7044.63,36.0,ATM,Debit,Oklahoma City,0
+9281.85,30.0,ATM,Debit,Las Vegas,1
+8639.36,56.0,ATM,Credit,San Diego,0
+4957.57,28.0,Branch,Credit,Atlanta,2
+9938.2,63.0,Online,Debit,Colorado Springs,2
+11796.66,62.0,ATM,Debit,Mesa,1
+7306.79,59.0,Branch,Debit,New York,0
+3157.75,27.0,Online,Debit,Raleigh,0
+1941.8000000000002,25.0,ATM,Debit,San Diego,0
+1019.7699999999995,46.0,Online,Debit,Denver,2
+12272.78,50.0,Online,Credit,Chicago,2
+7892.87,41.0,Branch,Debit,San Jose,0
+4150.63,60.0,ATM,Debit,Las Vegas,1
+1204.1099999999992,21.0,Branch,Debit,Chicago,2
+1893.0,61.0,ATM,Debit,Charlotte,2
+1059.6199999999994,26.0,ATM,Debit,San Antonio,0
+990.7399999999998,67.0,Online,Debit,Tucson,0
+7375.59,60.0,Branch,Debit,Omaha,0
+9403.12,52.0,ATM,Credit,Phoenix,0
+5798.92,36.0,Online,Debit,Seattle,0
+1498.9300000000003,25.0,Online,Credit,Houston,1
+5434.64,40.0,Branch,Debit,Fresno,1
+9100.81,48.0,ATM,Debit,Virginia Beach,0
+4750.96,47.0,ATM,Debit,Virginia Beach,0
+8434.99,33.0,Online,Debit,Charlotte,2
+1569.75,20.0,Online,Debit,Albuquerque,2
+7132.08,73.0,Online,Credit,San Diego,0
+1100.6400000000003,27.0,Online,Debit,Atlanta,2
+2272.17,77.0,Online,Debit,Philadelphia,0
+2287.93,31.0,Online,Debit,El Paso,2
+7104.83,64.0,Branch,Debit,Indianapolis,1
+13265.92,31.0,Branch,Debit,Nashville,1
+8292.75,39.0,ATM,Debit,El Paso,2
+651.8400000000001,23.0,Branch,Debit,San Diego,0
+7977.78,45.0,ATM,Debit,Raleigh,0
+4710.21,71.0,Branch,Debit,Houston,1
+6308.07,42.0,Branch,Credit,Washington,0
+7009.54,61.0,Branch,Credit,Albuquerque,2
+1973.63,19.0,ATM,Debit,Chicago,2
+2304.56,64.0,ATM,Debit,Charlotte,2
+6087.24,48.0,Branch,Credit,Indianapolis,1
+3869.37,77.0,ATM,Debit,San Antonio,0
+11147.34,40.0,Branch,Credit,Nashville,1
+2202.21,51.0,Branch,Debit,Fresno,1
+5897.29,67.0,ATM,Debit,Albuquerque,2
+3278.65,57.0,Branch,Debit,Charlotte,2
+12072.11,69.0,Branch,Debit,Detroit,2
+1441.8599999999997,77.0,ATM,Debit,Fresno,1
+7253.22,32.0,Branch,Debit,Mesa,1
+8795.37,33.0,Branch,Debit,Fort Worth,1
+2636.32,34.0,ATM,Debit,Omaha,0
+6949.21,45.0,Branch,Debit,Louisville,1
+792.3299999999999,23.0,Branch,Credit,Louisville,1
+9668.78,29.0,Branch,Debit,Louisville,1
+1381.75,27.0,Branch,Debit,Baltimore,2
+4226.26,66.0,Online,Debit,Miami,1
+1137.8899999999999,18.0,Branch,Debit,Virginia Beach,0
+7885.21,69.0,Branch,Debit,Sacramento,0
+9427.06,20.0,ATM,Debit,Albuquerque,2
+3679.64,54.0,ATM,Credit,Fort Worth,1
+3479.56,51.0,ATM,Debit,Memphis,1
+664.9300000000003,22.0,Branch,Debit,Los Angeles,1
+624.0900000000001,69.0,Branch,Credit,Denver,2
+3254.56,74.0,ATM,Debit,Denver,2
+678.8299999999999,18.0,Branch,Debit,Las Vegas,1
+14852.42,59.0,Online,Debit,San Jose,0
+5705.4,26.0,ATM,Debit,Sacramento,0
+1846.85,25.0,Branch,Debit,Fresno,1
+677.79,25.0,Branch,Debit,San Francisco,0
+2810.37,31.0,Branch,Debit,Columbus,2
+10631.43,67.0,Branch,Debit,Miami,1
+1188.9499999999998,24.0,Online,Debit,Tucson,0
+8374.38,43.0,ATM,Debit,San Diego,0
+4972.92,72.0,Online,Credit,Milwaukee,1
+4298.13,42.0,Branch,Debit,Louisville,1
+514.8800000000001,22.0,Online,Credit,San Diego,0
+10501.53,42.0,ATM,Debit,Houston,1
+3293.06,47.0,ATM,Debit,Phoenix,0
+9700.9,26.0,Online,Credit,Baltimore,2
+1052.27,28.0,ATM,Debit,Phoenix,0
+8375.16,42.0,Online,Credit,Sacramento,0
+10135.88,55.0,ATM,Debit,San Diego,0
+225.52999999999975,25.0,Branch,Debit,Denver,2
+1477.63,70.0,ATM,Debit,Tucson,0
+8932.39,26.0,Branch,Debit,Nashville,1
+1006.1199999999999,64.0,Online,Credit,Kansas City,1
+7516.56,41.0,Branch,Debit,Oklahoma City,0
+319.1800000000003,23.0,ATM,Debit,Virginia Beach,0
+966.8800000000001,20.0,Online,Debit,Denver,2
+7447.44,58.0,Branch,Debit,Houston,1
+620.2799999999997,23.0,ATM,Credit,San Jose,0
+707.9499999999998,21.0,ATM,Debit,Houston,1
+8586.38,46.0,ATM,Credit,Denver,2
+6076.45,51.0,Branch,Debit,Charlotte,2
+793.6300000000001,22.0,ATM,Debit,Memphis,1
+6258.63,29.0,Branch,Debit,Fort Worth,1
+10456.24,61.0,Online,Credit,Virginia Beach,0
+544.5599999999995,26.0,ATM,Debit,Nashville,1
+151.27999999999975,19.0,ATM,Debit,Columbus,2
+844.5500000000002,42.0,ATM,Debit,Miami,1
+7417.69,60.0,Branch,Debit,Baltimore,2
+1029.0900000000001,57.0,Branch,Credit,Indianapolis,1
+899.5200000000004,28.0,Online,Debit,Kansas City,1
+586.7600000000002,28.0,ATM,Credit,New York,0
+129.78999999999996,19.0,Branch,Credit,Austin,2
+10548.58,47.0,Online,Credit,Denver,2
+4384.95,74.0,Online,Debit,Nashville,1
+1429.6099999999997,26.0,ATM,Debit,Philadelphia,0
+5019.68,29.0,Online,Debit,Seattle,0
+8274.77,60.0,Branch,Credit,Austin,2
+935.8800000000001,21.0,Branch,Debit,Washington,0
+11584.32,30.0,Online,Debit,Sacramento,0
+1642.3400000000001,19.0,ATM,Debit,Oklahoma City,0
+6481.35,36.0,ATM,Debit,Kansas City,1
+5619.91,37.0,Online,Debit,Denver,2
+1661.1,27.0,Online,Debit,Omaha,0
+2958.43,53.0,Branch,Credit,Denver,2
+3506.11,60.0,Online,Debit,Raleigh,0
+6683.31,67.0,Online,Debit,Nashville,1
+1619.1599999999999,69.0,ATM,Debit,Colorado Springs,2
+12470.62,57.0,Branch,Debit,Tucson,0
+5184.13,38.0,Branch,Debit,Miami,1
+165.75,26.0,Online,Debit,Phoenix,0
+4846.68,27.0,Online,Credit,Phoenix,0
+1697.58,25.0,ATM,Debit,Seattle,0
+3896.08,63.0,ATM,Credit,Colorado Springs,2
+3651.07,74.0,ATM,Debit,Baltimore,2
+4480.43,51.0,ATM,Debit,Philadelphia,0
+667.6599999999999,47.0,ATM,Debit,Omaha,0
+5595.22,43.0,Branch,Debit,Louisville,1
+1588.31,18.0,Branch,Debit,San Antonio,0
+12709.58,58.0,Online,Credit,Phoenix,0
+6570.94,30.0,Branch,Debit,Omaha,0
+8892.62,45.0,Branch,Debit,Tucson,0
+11729.51,68.0,Branch,Debit,Detroit,2
+12104.51,35.0,Branch,Debit,Kansas City,1
+3495.51,52.0,Online,Debit,Kansas City,1
+7855.01,68.0,Online,Credit,Denver,2
+8843.44,35.0,Online,Debit,Las Vegas,1
+11826.52,29.0,ATM,Debit,Seattle,0
+7932.51,67.0,Online,Credit,Memphis,1
+4710.04,69.0,Online,Debit,Fresno,1
+7310.83,57.0,Branch,Debit,Tucson,0
+1879.8199999999997,23.0,Branch,Debit,San Antonio,0
+9018.33,43.0,Online,Credit,Baltimore,2
+13899.24,47.0,ATM,Debit,San Jose,0
+12613.25,61.0,Branch,Credit,Oklahoma City,0
+765.1499999999996,24.0,Online,Credit,Detroit,2
+7794.84,55.0,ATM,Debit,Fort Worth,1
+7541.16,43.0,Branch,Debit,Indianapolis,1
+8356.88,46.0,Online,Debit,Colorado Springs,2
+1445.4700000000003,72.0,ATM,Debit,El Paso,2
+5141.32,35.0,Online,Debit,Boston,2
+1696.15,27.0,Branch,Debit,Fresno,1
+1806.08,19.0,Online,Credit,Mesa,1
+5908.04,27.0,Branch,Credit,Washington,0
+4207.27,42.0,Online,Debit,Washington,0
+8365.37,57.0,Online,Debit,Miami,1
+7261.7,27.0,Online,Debit,Memphis,1
+5008.59,62.0,ATM,Debit,Charlotte,2
+4287.82,24.0,Branch,Debit,Philadelphia,0
+10513.52,63.0,Online,Debit,Washington,0
+690.5200000000004,19.0,Branch,Debit,San Francisco,0
+1788.27,26.0,Online,Debit,Miami,1
+4672.8,42.0,Online,Debit,San Antonio,0
+3677.63,41.0,Online,Credit,Baltimore,2
+6911.2,42.0,ATM,Debit,Omaha,0
+12027.68,39.0,Online,Debit,Raleigh,0
+184.72000000000025,36.0,Branch,Credit,Austin,2
+101.25,28.0,Online,Debit,Jacksonville,1
+5771.4,38.0,Branch,Debit,Omaha,0
+4539.99,55.0,ATM,Debit,Omaha,0
+193.80000000000018,25.0,Online,Credit,Philadelphia,0
+9138.76,44.0,ATM,Debit,Miami,1
+941.4899999999998,18.0,Branch,Debit,Los Angeles,1
+566.8299999999999,26.0,Branch,Debit,Washington,0
+1550.48,52.0,Branch,Credit,Indianapolis,1
+9038.63,70.0,ATM,Debit,Colorado Springs,2
+6640.51,40.0,Branch,Credit,San Jose,0
+5400.44,52.0,ATM,Debit,Omaha,0
+6980.98,32.0,Branch,Debit,Indianapolis,1
+5209.16,57.0,Branch,Debit,Denver,2
+2342.64,53.0,Online,Credit,Tucson,0
+136.77000000000044,27.0,Branch,Credit,New York,0
+6860.18,64.0,Branch,Debit,Indianapolis,1
+409.2600000000002,24.0,Online,Debit,Tucson,0
+383.5799999999999,23.0,ATM,Debit,Jacksonville,1
+2411.02,64.0,ATM,Debit,Denver,2
+6756.13,36.0,Online,Credit,Tucson,0
+7879.66,42.0,Online,Debit,Austin,2
+9297.5,24.0,Branch,Debit,Houston,1
+7531.43,51.0,ATM,Debit,Albuquerque,2
+899.1499999999996,25.0,ATM,Debit,Jacksonville,1
+1431.6,54.0,ATM,Debit,Detroit,2
+4500.26,22.0,ATM,Debit,Washington,0
+6735.74,50.0,Online,Credit,Oklahoma City,0
+3037.97,73.0,Online,Credit,Washington,0
+9040.33,32.0,Online,Debit,Las Vegas,1
+796.6300000000001,26.0,ATM,Debit,Fort Worth,1
+9199.52,52.0,Online,Debit,Las Vegas,1
+8037.87,53.0,Online,Debit,San Jose,0
+1081.79,18.0,ATM,Debit,Memphis,1
+3812.87,34.0,ATM,Debit,Chicago,2
+940.9099999999999,28.0,Branch,Credit,Boston,2
+6474.34,57.0,ATM,Debit,Louisville,1
+2498.48,48.0,Online,Credit,Fort Worth,1
+9578.74,64.0,Branch,Debit,Baltimore,2
+7346.66,49.0,ATM,Debit,Boston,2
+811.8599999999997,21.0,ATM,Debit,Albuquerque,2
+8579.69,36.0,Branch,Debit,New York,0
+9013.1,65.0,Online,Debit,Albuquerque,2
+6863.02,45.0,ATM,Credit,Louisville,1
+2052.84,75.0,Online,Credit,Detroit,2
+1887.8400000000001,21.0,ATM,Debit,El Paso,2
+6944.9,25.0,Branch,Debit,Denver,2
+1289.48,26.0,Branch,Credit,Phoenix,0
+13777.1,69.0,ATM,Debit,Dallas,2
+4120.75,53.0,Online,Credit,Memphis,1
+10517.47,44.0,Online,Debit,Albuquerque,2
+5414.97,31.0,ATM,Debit,Tucson,0
+13542.41,59.0,Online,Debit,Sacramento,0
+5265.88,39.0,ATM,Debit,Virginia Beach,0
+6937.48,60.0,Branch,Debit,Philadelphia,0
+12690.79,33.0,Branch,Credit,Colorado Springs,2
+254.75,48.0,Branch,Debit,Tucson,0
+3382.91,56.0,Branch,Debit,San Diego,0
+1776.9099999999999,23.0,Online,Debit,Denver,2
+131.25,24.0,Online,Credit,Jacksonville,1

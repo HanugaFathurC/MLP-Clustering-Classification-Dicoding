@@ -1,0 +1,13 @@
+.models/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
